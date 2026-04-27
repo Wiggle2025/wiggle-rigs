@@ -1,0 +1,57 @@
+[
+{
+"name": "60lb Sliding Snell Snapper & Mulloway Rig",
+"environment": ["Surf"],
+"species": ["Snapper","Mulloway"],
+"bait": ["Strip bait","Slab bait","Pilchard"],
+"structure": ["Clean sand"],
+"sweep": ["Moderate"],
+"distance": ["Medium","Long"],
+"sinker": "Star sinker",
+"why": "Twin snelled hooks improve hook-up rates on head-and-tail striking predators in surf gutters."
+},
+{
+"name": "40lb Sliding Snell Estuary Snapper & Mulloway Rig",
+"environment": ["Estuary"],
+"species": ["Snapper","Mulloway"],
+"bait": ["Strip bait","Pilchard"],
+"structure": ["Clean sand","Light reef"],
+"sweep": ["None","Moderate"],
+"distance": ["Short","Medium"],
+"sinker": "Ball sinker",
+"why": "Lighter leader improves bite rates in clear estuary conditions."
+},
+{
+"name": "Long Distance Pulley Rig",
+"environment": ["Surf"],
+"species": ["Mulloway","Tailor","Salmon"],
+"bait": ["Strip bait","Pilchard"],
+"structure": ["Clean sand"],
+"sweep": ["Moderate","Strong"],
+"distance": ["Long"],
+"sinker": "Breakaway sinker",
+"why": "Pulley release system increases casting distance and reduces snagging after hook-up."
+},
+{
+"name": "Cannonball Long Distance Rig",
+"environment": ["Surf"],
+"species": ["Mulloway","Snapper"],
+"bait": ["Slab bait"],
+"structure": ["Clean sand"],
+"sweep": ["Moderate"],
+"sinker": "Breakaway sinker",
+"distance": ["Extreme"],
+"why": "Designed for casting large slab baits extreme distances without bait spin."
+},
+{
+"name": "Whiting Double Paternoster Rig",
+"environment": ["Surf","Estuary"],
+"species": ["Whiting"],
+"bait": ["Worm"],
+"structure": ["Clean sand"],
+"sweep": ["None","Moderate"],
+"distance": ["Short"],
+"sinker": "Ball sinker",
+"why": "Keeps worm baits elevated slightly above sand reducing crab interference."
+}
+]
