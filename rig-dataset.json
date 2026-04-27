@@ -1,7 +1,8 @@
 [
 {
+"id": "running_sinker",
 "name": "Running Sinker Rig",
-"url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-everyday-hand-twisted-paternoster-rig-2x-1-slash-0-hooks-and-green-luminous-beads",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/4-x-complete-20lb-brim-bream-running-sinker-rigs-size10-hook-15gm-sinker",
 "environment": ["Surf","Estuary"],
 "species": ["Whiting","Bream","Flathead","Mixed"],
 "bait": ["Worm","Pilchard","Strip bait"],
@@ -13,6 +14,7 @@
 },
 
 {
+"id": "whiting_paternoster",
 "name": "Whiting Double Paternoster Rig",
 "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-hand-tied-whiting-double-paternoster-rigs-2-worm-hooks--blue-fisheye-beads",
 "environment": ["Surf","Estuary"],
@@ -26,6 +28,7 @@
 },
 
 {
+"id": "sliding_snell_40",
 "name": "40lb Sliding Snell Estuary Snapper & Mulloway Rig",
 "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-sliding-snelled-hook-rigs-2x-circle-3-slash-0-hooks-and-lumo-beads-4x-40l-sld-snl1",
 "environment": ["Estuary"],
@@ -39,6 +42,7 @@
 },
 
 {
+"id": "sliding_snell_60",
 "name": "60lb Sliding Snell Snapper & Mulloway Rig",
 "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-60lb-snapper-mulloway-fishing-rig-2-x-octopus-circle-60-hooks",
 "environment": ["Surf"],
@@ -52,6 +56,7 @@
 },
 
 {
+"id": "flathead_fishfinder",
 "name": "Flathead Fish Finder Rig",
 "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-mono-flathead-fish-finder-rigs2-x-10-hookssliding-weight-clip-beads",
 "environment": ["Surf","Estuary"],
@@ -65,6 +70,7 @@
 },
 
 {
+"id": "surf_flasher",
 "name": "Surf Flasher Paternoster Rig",
 "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-surf-salmon-and-tailor-flasher-paternoster-rigs",
 "environment": ["Surf"],
@@ -78,6 +84,7 @@
 },
 
 {
+"id": "reef_paternoster_80lb",
 "name": "Heavy Reef Twisted Paternoster Rig",
 "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-heavy-duty-offshorereef-80lb-twisted-paternosta-rigs-2x-8-slash-0-hooks",
 "environment": ["Reef","Offshore"],
@@ -91,6 +98,7 @@
 },
 
 {
+"id": "pulley_longcast",
 "name": "Long Distance Pulley Rig",
 "url": "https://wiggleyawormrigs.com/online-shop/ols/products/toothy-critter-60lb-slash-110lb-long-cast-beach-pulley-rig-4-slash-0-hook-rig-6-tth-crt-60l-1102",
 "environment": ["Surf"],
@@ -104,6 +112,7 @@
 },
 
 {
+"id": "cannonball_longcast",
 "name": "Cannonball Long Distance Rig",
 "url": "https://wiggleyawormrigs.com/online-shop/ols/products/80lb-cannonball-long-distance-casting-rig-6-slash-0-hook-hand-tied",
 "environment": ["Surf"],
@@ -114,18 +123,5 @@
 "distance": ["Extreme"],
 "sinker": "Breakaway sinker",
 "why": "Aerodynamic backbone delivers large slab baits extreme casting distance."
-},
-
-{
-"name": "Slide Bait Rig",
-"url": "https://wiggleyawormrigs.com/online-shop/ols/products/unweighted-pre-rigged-slide-rig-for-big-baitsfish-110lb-wire-2x-80-octopus-circle-hooks",
-"environment": ["Land-based shark"],
-"species": ["Sharks"],
-"bait": ["Live bait","Slab bait"],
-"structure": ["Clean sand","Light reef"],
-"sweep": ["Moderate","Strong"],
-"distance": ["Extreme"],
-"sinker": "Breakaway sinker",
-"why": "Designed for deploying large baits beyond the breakers for sharks."
 }
 ]
