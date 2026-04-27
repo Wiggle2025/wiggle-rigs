@@ -1,105 +1,24 @@
-<script>
+[
+{
+"n": "3x Hand Tied Whiting Double Paternoster rigs #2 Worm hooks & Blue Fisheye Beads",
+"s": "Whiting",
+"l": ["Beach","Rocks","Jetty","Estuary","Boat"],
+"p": "Octopus Beak Hook, Paternoster",
+"ld": "Monofilament",
+"i": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/general%20arrangement%203%20packs.png",
+"u": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-hand-tied-whiting-double-paternoster-rigs-2-worm-hooks--blue-fisheye-beads",
+"w": "Fisheye beads that give your baits that extra attraction that surf fish can't resist"
+},
 
-let rigs = [];
-
-/* LOAD DATASET FROM GITHUB */
-
-fetch("https://raw.githubusercontent.com/Wiggle2025/wiggle-rigs/main/rig-dataset.json")
-.then(response => {
-    if(!response.ok){
-        throw new Error("Dataset failed to load");
-    }
-    return response.json();
-})
-.then(data => {
-    rigs = data;
-    console.log("Rig dataset loaded:", rigs.length);
-})
-.catch(error => {
-    console.error("Rig dataset error:", error);
-});
-
-
-/* UI FLOW CONTROL */
-
-function showSpecies(){
-    document.getElementById("speciesBlock").style.display = "block";
+{
+"n": "4x \"Everyday\" Hand Twisted Paternoster rigs, 2x 1/0 hooks, green luminous beads.",
+"s": "Whiting",
+"l": ["Beach","Rocks","Jetty","Estuary","Boat","River"],
+"p": "Octopus Beak Hook,Paternoster",
+"ld": "Monofilament",
+"i": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover%20single.png",
+"u": "https://wiggleyawormrigs.com/online-shop/ols/products/4xeveryday-hand-twisted-paternoster-rig-2x-1-slash-0-hooks-and-green-luminous-beads",
+"w": "Our rig of choice for everyday fishing when you just want to catch fish"
 }
 
-function showBait(){
-    document.getElementById("baitBlock").style.display = "block";
-}
-
-function showAdvanced(){
-    document.getElementById("advancedBlock").style.display = "block";
-}
-
-
-/* FIND MATCHING RIG */
-
-function findRig(){
-
-let location = document.getElementById("location").value;
-let species = document.getElementById("species").value;
-
-
-/* FILTER MATCHES */
-
-let matches = rigs.filter(rig =>
-    rig.s === species &&
-    rig.l.includes(location)
-);
-
-
-/* NO MATCH FOUND */
-
-if(matches.length === 0){
-
-document.getElementById("resultPanel").innerHTML =
-
-"<h3>Recommended Rig</h3>" +
-
-"No exact match yet. More rigs are being added.<br><br>" +
-
-"<a href='https://wiggleyawormrigs.com/rigs-explained' target='_blank'>Browse rig styles here →</a>";
-
-return;
-
-}
-
-
-/* BEST + ALT MATCH */
-
-let best = matches[0];
-let alt = matches.length > 1 ? matches[1] : null;
-
-
-/* SAFE FIELD FALLBACKS */
-
-let rigName = best.n || "View recommended rig";
-let rigURL = best.u || "https://wiggleyawormrigs.com/rigs-explained";
-let whyText = best.w || "Proven reliable rig for these conditions.";
-
-
-/* OUTPUT PANEL */
-
-document.getElementById("resultPanel").innerHTML =
-
-"<h3>Recommended Rig</h3>" +
-
-"<a href='" + rigURL + "' target='_blank' style='font-size:18px;font-weight:bold;'>" +
-rigName +
-"</a>" +
-
-"<br><br><strong>Why this rig works</strong><br>" +
-whyText +
-
-(alt && alt.u && alt.n
-? "<br><br><a href='" + alt.u + "' target='_blank'>Alternative option: " + alt.n + "</a>"
-: "") +
-
-"<br><br><a href='https://wiggleyawormrigs.com/rigs-explained' target='_blank'>Learn how this rig style works →</a>";
-
-}
-
-</script>
+]
