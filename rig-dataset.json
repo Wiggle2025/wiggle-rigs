@@ -1,6 +1,7 @@
 [
 {
 "name": "40lb Sliding Snell Estuary Snapper & Mulloway Rig",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/40lb-sliding-snell-estuary-snapper-mulloway-rig",
 "environment": ["Estuary"],
 "species": ["Snapper","Mulloway"],
 "bait": ["Strip bait","Pilchard"],
@@ -12,6 +13,7 @@
 },
 {
 "name": "60lb Sliding Snell Snapper & Mulloway Rig",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb-sliding-snell-snapper-mulloway-rig",
 "environment": ["Surf"],
 "species": ["Snapper","Mulloway"],
 "bait": ["Strip bait","Slab bait","Pilchard"],
@@ -23,6 +25,7 @@
 },
 {
 "name": "Flathead Fish Finder Rig",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/40lb-mono-flathead-fish-finder-rig-2-x-10-hooks-sliding-weight-clip-beads",
 "environment": ["Surf","Estuary"],
 "species": ["Flathead"],
 "bait": ["Strip bait","Pilchard","Live bait"],
@@ -34,6 +37,7 @@
 },
 {
 "name": "Running Sinker Rig",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/running-sinker-rig",
 "environment": ["Surf","Estuary"],
 "species": ["Flathead","Whiting","Bream","Mixed"],
 "bait": ["Worm","Pilchard","Strip bait"],
@@ -45,6 +49,7 @@
 },
 {
 "name": "Whiting Double Paternoster Rig",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/hand-tied-whiting-double-paternoster-rig-size-4-worm-hooks",
 "environment": ["Surf","Estuary"],
 "species": ["Whiting"],
 "bait": ["Worm"],
@@ -56,6 +61,7 @@
 },
 {
 "name": "Surf Flasher Paternoster Rig",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/surf-flasher-paternoster-rig",
 "environment": ["Surf"],
 "species": ["Tailor","Salmon"],
 "bait": ["Pilchard","Strip bait"],
@@ -67,6 +73,7 @@
 },
 {
 "name": "Long Distance Pulley Rig",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb-40lb-long-distance-casting-beach-pulley-rig",
 "environment": ["Surf"],
 "species": ["Mulloway","Tailor","Salmon"],
 "bait": ["Strip bait","Pilchard"],
@@ -78,6 +85,7 @@
 },
 {
 "name": "Cannonball Long Distance Rig",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/cannonball-long-distance-casting-rig",
 "environment": ["Surf"],
 "species": ["Mulloway","Snapper"],
 "bait": ["Slab bait"],
@@ -89,6 +97,7 @@
 },
 {
 "name": "Heavy Reef Twisted Paternoster Rig",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/heavy-duty-offshore-reef-twisted-paternoster-rig",
 "environment": ["Reef","Offshore"],
 "species": ["Snapper","Reef species"],
 "bait": ["Pilchard","Strip bait","Slab bait"],
@@ -100,6 +109,7 @@
 },
 {
 "name": "Slide Bait Rig",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/pre-rigged-slide-bait-rig",
 "environment": ["Land-based shark"],
 "species": ["Sharks"],
 "bait": ["Live bait","Slab bait"],
