@@ -1,107 +1,30 @@
-<script>
-
-let rigs=[];
-
-/* LOAD ORIGINAL V1 DATASET */
-
-fetch("https://raw.githubusercontent.com/Wiggle2025/wiggle-rigs/main/rig-dataset.json")
-.then(r=>r.json())
-.then(data=>{
-rigs=data;
-console.log("Rig dataset loaded:",rigs.length);
-});
-
-/* FLOW CONTROL */
-
-function showSpecies(){
-document.getElementById("speciesBlock").style.display="block";
-}
-
-function showBait(){
-document.getElementById("baitBlock").style.display="block";
-}
-
-function showAdvanced(){
-document.getElementById("advancedBlock").style.display="block";
-}
-
-/* SAFE FIELD ACCESSOR (handles V1 variations) */
-
-function getURL(rig){
-return rig.u || rig.url || "#";
-}
-
-function getName(rig){
-return rig.n || rig.name || "Unknown rig";
-}
-
-function getWhy(rig){
-return rig.w || rig.why || "";
-}
-
-/* SCORING ENGINE */
-
-function scoreRig(rig,user){
-
-let score=0;
-
-if(rig.l?.includes(user.environment)) score+=5;
-
-if(rig.s===user.species || rig.s?.includes?.(user.species)){
-
-score+=5;
-
-if(getName(rig).toLowerCase().includes(user.species.toLowerCase()))
-score+=3;
-}
-
-return score;
-}
-
-/* MAIN SELECTOR */
-
-function findRig(){
-
-if(rigs.length===0){
-
-document.getElementById("resultPanel").innerHTML=
-"Rig data still loading — try again in a moment.";
-
-return;
-}
-
-const user={
-
-environment:environment.value,
-species:species.value
-
-};
-
-let ranked=rigs.map(r=>({
-rig:r,
-score:scoreRig(r,user)
-}));
-
-ranked.sort((a,b)=>b.score-a.score);
-
-let best=ranked[0]?.rig;
-let alt=ranked[1]?.rig;
-
-document.getElementById("resultPanel").innerHTML=
-
-"<h3>Recommended Rig</h3>"+
-
-"<a href='"+getURL(best)+"' target='_blank' style='font-size:18px;font-weight:bold;'>"+
-getName(best)+
-"</a>"+
-
-"<br><br><strong>Why this rig works</strong><br>"+
-getWhy(best)+
-
-(alt ? "<br><br><a href='"+getURL(alt)+"' target='_blank'>Alternative option: "+getName(alt)+"</a>" : "")+
-
-"<br><br><a href='https://wiggleyawormrigs.com/rigs-explained' target='_blank'>Learn how this rig style works →</a>";
-
-}
-
-</script>
+[
+  {
+    "n": "4x Hand Tied Whiting Double Paternosta rigs No 4 Worm hooks, lumo beads & sinker",
+    "s": "Whiting",
+    "l": ["Beach","Rocks","Jetty","Estuary","Boat","River"],
+    "u": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-whiting-double-paternosta-rigs-no-4-worm-hooks-lumo-beads-sinker",
+    "w": "Keeps bait positioned just above sand where whiting actively feed."
+  },
+  {
+    "n": "Running Sinker Rig",
+    "s": "Whiting",
+    "l": ["Beach","Estuary","River"],
+    "u": "https://wiggleyawormrigs.com/online-shop/ols/products/10x-complete-20lb-brim-bream-running-sinker-rigs-size10-hook-15gm-sinker",
+    "w": "Allows natural bait movement close to the bottom where whiting forage."
+  },
+  {
+    "n": "Snapper & Mulloway Sliding Snell Rig 60lb",
+    "s": "Mulloway",
+    "l": ["Beach","Rocks"],
+    "u": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-60lb-snapper-mulloway-fishing-rig-2-x-octopus-circle-60-hooks",
+    "w": "Twin snelled hooks present large strip baits straight and improve hook-up rates on big predators."
+  },
+  {
+    "n": "Long Distance Casting Pulley Rig",
+    "s": "Surf species",
+    "l": ["Beach"],
+    "u": "https://wiggleyawormrigs.com/online-shop/ols/products/80lb-cannonball-long-distance-casting-rigs-60-circle-hook-hand-tied",
+    "w": "Aerodynamic casting design protects bait during flight and increases casting distance."
+  }
+]
