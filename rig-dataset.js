@@ -1,6 +1,6 @@
-// ===============================
-// Rig dataset
-// ===============================
+// =============================
+// Wiggle ya Worm Rig Dataset
+// =============================
 
 const rigs = [
 
@@ -8,253 +8,138 @@ const rigs = [
 id: "running_sinker",
 name: "Running Sinker Rig",
 url: "https://wiggleyawormrigs.com/online-shop/ols/products/4-x-complete-20lb-brim-bream-running-sinker-rigs-size10-hook-15gm-sinker",
+
+guide: "https://wiggleyawormrigs.com/running-sinker-rig-guide",
+
 environment: ["Surf","Estuary"],
 species: ["Whiting","Bream","Flathead","Mixed"],
+species_priority: ["Whiting","Bream"],
+
 bait: ["Worm","Pilchard","Strip bait"],
 structure: ["Clean sand"],
 sweep: ["None"],
 distance: ["Short"],
+
 sinker: "Ball sinker",
+
+alternative: "whiting_paternoster",
+
 why: "Simple presentation ideal for natural bait movement in calm conditions."
 },
 
 {
 id: "whiting_paternoster",
 name: "Whiting Double Paternoster Rig",
-url: "https://wiggleyawormrigs.com/online-shop/ols/products/3x-hand-tied-whiting-double-paternoster-rigs-2-worm-hooks--blue-fisheye-beads",
+url: "https://wiggleyawormrigs.com/online-shop/ols/products/3x-hand-tied-whiting-double-paternoster-rigs-2-worm-hooks-blue-fisheye-beads",
+
+guide: "https://wiggleyawormrigs.com/paternoster-rig-guide",
+
 environment: ["Surf","Estuary"],
 species: ["Whiting"],
+species_priority: ["Whiting"],
+
 bait: ["Worm"],
 structure: ["Clean sand"],
-sweep: ["None","Moderate"],
-distance: ["Short"],
-sinker: "Ball sinker",
-why: "Keeps worm baits elevated above sand and away from pickers."
+sweep: ["None","Light"],
+distance: ["Short","Medium"],
+
+sinker: "Star sinker",
+
+alternative: "running_sinker",
+
+why: "Keeps bait positioned just above sand where whiting actively feed."
 },
 
 {
-id: "sliding_snell_40",
+id: "snapper_mulloway_sliding_snell_40lb",
 name: "40lb Sliding Snell Estuary Snapper & Mulloway Rig",
 url: "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-sliding-snelled-hook-rigs-2x-circle-3-slash-0-hooks-and-lumo-beads-4x-40l-sld-snl1",
-environment: ["Estuary"],
+
+guide: "https://wiggleyawormrigs.com/sliding-snell-rig-guide",
+
+environment: ["Estuary","Surf"],
 species: ["Snapper","Mulloway"],
+species_priority: ["Snapper","Mulloway"],
+
 bait: ["Pilchard","Strip bait"],
-structure: ["Clean sand","Light reef"],
-sweep: ["None","Moderate"],
+structure: ["Clean sand","Mixed"],
+sweep: ["None","Light"],
 distance: ["Short","Medium"],
+
 sinker: "Ball sinker",
+
+alternative: "snapper_mulloway_sliding_snell_60lb",
+
 why: "Twin snelled hooks improve hook-up rates while maintaining subtle presentation."
 },
 
 {
-id: "sliding_snell_60",
+id: "snapper_mulloway_sliding_snell_60lb",
 name: "60lb Sliding Snell Snapper & Mulloway Rig",
-url: "https://wiggleyawormrigs.com/online-shop/ols/products/4x-60lb-sliding-snelled-double-hook-rig-2x-5-slash-0-octopus-circle-hooks-with-luminous-beads",
-environment: ["Surf"],
+url: "https://wiggleyawormrigs.com/online-shop/ols/products/4x-60lb-sliding-snelled-hook-rigs-2x-5-slash-0-circle-hooks-with-luminous-beads",
+
+guide: "https://wiggleyawormrigs.com/sliding-snell-rig-guide",
+
+environment: ["Surf","Rock"],
 species: ["Snapper","Mulloway"],
-bait: ["Pilchard","Strip bait","Slab bait"],
-structure: ["Clean sand"],
-sweep: ["Moderate"],
+species_priority: ["Snapper","Mulloway"],
+
+bait: ["Pilchard","Strip bait"],
+structure: ["Mixed","Reef edge"],
+sweep: ["Light","Moderate"],
 distance: ["Medium","Long"],
+
 sinker: "Star sinker",
-why: "Heavier leader handles surf pressure while twin hooks secure large predators."
+
+alternative: "snapper_paternoster",
+
+why: "Heavier trace handles larger surf fish and rougher terrain."
 },
 
 {
 id: "flathead_fishfinder",
 name: "Flathead Fish Finder Rig",
-url: "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-mono-flathead-fish-finder-rigs2-x-10-hookssliding-weight-clip-beads",
-environment: ["Surf","Estuary"],
+url: "https://wiggleyawormrigs.com/online-shop/ols/products/10x-40lb-surf-and-estuary-fish-finder-rig-octopus-circle-6-slash-0-hook-hand-tied",
+
+guide: "https://wiggleyawormrigs.com/fish-finder-rig-guide",
+
+environment: ["Estuary","Surf"],
 species: ["Flathead"],
-bait: ["Pilchard","Strip bait","Live bait"],
-structure: ["Clean sand"],
-sweep: ["None","Moderate"],
+species_priority: ["Flathead"],
+
+bait: ["Pilchard","Strip bait"],
+structure: ["Clean sand","Mud"],
+sweep: ["None","Light"],
 distance: ["Short","Medium"],
+
 sinker: "Ball sinker",
-why: "Sliding sinker lets flathead mouth bait naturally before feeling resistance."
+
+alternative: "running_sinker",
+
+why: "Sliding presentation allows flathead to take bait naturally before resistance."
+},
+
+{
+id: "snapper_paternoster",
+name: "Snapper Double Paternoster Rig",
+url: "https://wiggleyawormrigs.com/online-shop/ols/products/hand-tied-snapper-reef-fish-60lb-twisted-dropper-rig-2x-heavy-duty-4-slash-0-hooks",
+
+guide: "https://wiggleyawormrigs.com/paternoster-rig-guide",
+
+environment: ["Surf","Reef","Boat"],
+species: ["Snapper"],
+species_priority: ["Snapper"],
+
+bait: ["Pilchard","Strip bait"],
+structure: ["Reef","Mixed"],
+sweep: ["Moderate"],
+distance: ["Short","Medium"],
+
+sinker: "Star sinker",
+
+alternative: "snapper_mulloway_sliding_snell_60lb",
+
+why: "Keeps bait elevated above reef where snapper actively hunt."
 }
 
 ];
-
-
-// ===============================
-// Optional rig guide links
-// ===============================
-
-const rigGuides = {
-
-running_sinker:
-"/rig-setup-guides/running-sinker-rig",
-
-whiting_paternoster:
-"/rig-setup-guides/paternoster-rig",
-
-sliding_snell_40:
-"/rig-setup-guides/sliding-snell-rig",
-
-sliding_snell_60:
-"/rig-setup-guides/sliding-snell-rig",
-
-flathead_fishfinder:
-"/rig-setup-guides/fish-finder-rig"
-
-};
-
-
-// ===============================
-// Main selection function
-// ===============================
-
-function findRig() {
-
-const selectedEnvironment =
-document.getElementById("environment").value;
-
-const selectedSpecies =
-document.getElementById("species").value;
-
-const selectedBait =
-document.getElementById("bait").value;
-
-const selectedStructure =
-document.getElementById("structure").value;
-
-const selectedSweep =
-document.getElementById("sweep").value;
-
-const selectedDistance =
-document.getElementById("distance").value;
-
-
-let bestRig = null;
-let bestScore = -1;
-let alternativeRig = null;
-let altScore = -1;
-
-
-// ===============================
-// scoring loop
-// ===============================
-
-rigs.forEach(rig => {
-
-let score = 0;
-
-
-if (rig.environment.includes(selectedEnvironment))
-score += 3;
-
-if (rig.species.includes(selectedSpecies))
-score += 3;
-
-if (rig.bait.includes(selectedBait))
-score += 2;
-
-if (rig.structure.includes(selectedStructure))
-score += 2;
-
-if (rig.sweep.includes(selectedSweep))
-score += 2;
-
-if (rig.distance.includes(selectedDistance))
-score += 2;
-
-
-// species name bonus weighting
-
-if (
-rig.name.toLowerCase()
-.includes(selectedSpecies.toLowerCase())
-)
-score += 2;
-
-
-// assign best + alternative rigs safely
-
-if (score > bestScore) {
-
-altScore = bestScore;
-alternativeRig = bestRig;
-
-bestScore = score;
-bestRig = { ...rig };
-
-}
-else if (score > altScore) {
-
-altScore = score;
-alternativeRig = { ...rig };
-
-}
-
-});
-
-
-// ===============================
-// render result
-// ===============================
-
-const resultLink =
-document.getElementById("resultLink");
-
-resultLink.textContent = bestRig.name;
-
-resultLink.setAttribute("href", bestRig.url);
-
-
-document.getElementById("whyText")
-.textContent = bestRig.why;
-
-document.getElementById("sinkerText")
-.textContent = bestRig.sinker;
-
-
-// confidence level logic
-
-let confidence = "Multiple rigs suitable";
-
-if (bestScore >= 10)
-confidence = "Strong match";
-
-document.getElementById("confidenceText")
-.textContent = confidence;
-
-
-// ===============================
-// alternative rig link
-// ===============================
-
-const altContainer =
-document.getElementById("altText");
-
-if (alternativeRig) {
-
-altContainer.innerHTML =
-'<a href="' +
-alternativeRig.url +
-'">' +
-alternativeRig.name +
-'</a>';
-
-}
-
-
-// ===============================
-// optional rig guide link
-// ===============================
-
-const guideLink =
-document.getElementById("guideLink");
-
-if (rigGuides[bestRig.id]) {
-
-guideLink.setAttribute(
-"href",
-rigGuides[bestRig.id]
-);
-
-guideLink.style.display = "inline";
-
-}
-
-}
