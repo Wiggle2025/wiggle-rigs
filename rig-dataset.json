@@ -5,25 +5,33 @@ let rigs = [];
 /* LOAD DATASET FROM GITHUB */
 
 fetch("https://raw.githubusercontent.com/Wiggle2025/wiggle-rigs/main/rig-dataset.json")
-.then(response => response.json())
+.then(response => {
+    if(!response.ok){
+        throw new Error("Dataset failed to load");
+    }
+    return response.json();
+})
 .then(data => {
     rigs = data;
     console.log("Rig dataset loaded:", rigs.length);
+})
+.catch(error => {
+    console.error("Rig dataset error:", error);
 });
 
 
 /* UI FLOW CONTROL */
 
 function showSpecies(){
-    document.getElementById("speciesBlock").style.display="block";
+    document.getElementById("speciesBlock").style.display = "block";
 }
 
 function showBait(){
-    document.getElementById("baitBlock").style.display="block";
+    document.getElementById("baitBlock").style.display = "block";
 }
 
 function showAdvanced(){
-    document.getElementById("advancedBlock").style.display="block";
+    document.getElementById("advancedBlock").style.display = "block";
 }
 
 
@@ -34,11 +42,16 @@ function findRig(){
 let location = document.getElementById("location").value;
 let species = document.getElementById("species").value;
 
+
+/* FILTER MATCHES */
+
 let matches = rigs.filter(rig =>
     rig.s === species &&
     rig.l.includes(location)
 );
 
+
+/* NO MATCH FOUND */
 
 if(matches.length === 0){
 
@@ -46,15 +59,26 @@ document.getElementById("resultPanel").innerHTML =
 
 "<h3>Recommended Rig</h3>" +
 
-"No exact match yet. More rigs are being added.";
+"No exact match yet. More rigs are being added.<br><br>" +
+
+"<a href='https://wiggleyawormrigs.com/rigs-explained' target='_blank'>Browse rig styles here →</a>";
 
 return;
 
 }
 
 
+/* BEST + ALT MATCH */
+
 let best = matches[0];
 let alt = matches.length > 1 ? matches[1] : null;
+
+
+/* SAFE FIELD FALLBACKS */
+
+let rigName = best.n || "View recommended rig";
+let rigURL = best.u || "https://wiggleyawormrigs.com/rigs-explained";
+let whyText = best.w || "Proven reliable rig for these conditions.";
 
 
 /* OUTPUT PANEL */
@@ -63,14 +87,16 @@ document.getElementById("resultPanel").innerHTML =
 
 "<h3>Recommended Rig</h3>" +
 
-"<a href='" + best.u + "' target='_blank' style='font-size:18px;font-weight:bold;'>" +
-best.n +
+"<a href='" + rigURL + "' target='_blank' style='font-size:18px;font-weight:bold;'>" +
+rigName +
 "</a>" +
 
 "<br><br><strong>Why this rig works</strong><br>" +
-best.w +
+whyText +
 
-(alt ? "<br><br><a href='" + alt.u + "' target='_blank'>Alternative option: " + alt.n + "</a>" : "") +
+(alt && alt.u && alt.n
+? "<br><br><a href='" + alt.u + "' target='_blank'>Alternative option: " + alt.n + "</a>"
+: "") +
 
 "<br><br><a href='https://wiggleyawormrigs.com/rigs-explained' target='_blank'>Learn how this rig style works →</a>";
 
