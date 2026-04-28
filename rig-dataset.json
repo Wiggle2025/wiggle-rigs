@@ -3,30 +3,16 @@
 "n": "3x Hand Tied Whiting Double Paternoster rigs #2 Worm hooks & Blue Fisheye Beads",
 "s": "Whiting",
 "l": ["Beach","Rocks","Jetty","Estuary","Boat"],
-"p": "Octopus Beak Hook, Paternoster",
-"ld": "Monofilament",
-"i": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/general%20arrangement%203%20packs.png",
 "u": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-hand-tied-whiting-double-paternoster-rigs-2-worm-hooks--blue-fisheye-beads",
-"w": "Fisheye beads that give your baits that extra attraction that surf fish can't resist"
+"w": "Fisheye beads add visual attraction that whiting key in on over clean sand."
 },
 
 {
-"n": "4x \"Everyday\" Hand Twisted Paternoster rigs, 2x 1/0 hooks, green luminous beads.",
+"n": "4x Everyday Hand Twisted Paternoster rigs 2x 1/0 hooks Green Lumo Beads",
 "s": "Whiting",
-"l": ["Beach","Rocks","Jetty","Estuary","Boat","River"],
-"p": "Octopus Beak Hook,Paternoster",
-"ld": "Monofilament",
-"i": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover%20single.png",
+"l": ["Beach","Estuary","Boat","River","Jetty","Rocks"],
 "u": "https://wiggleyawormrigs.com/online-shop/ols/products/4xeveryday-hand-twisted-paternoster-rig-2x-1-slash-0-hooks-and-green-luminous-beads",
-"w": "Our rig of choice for everyday fishing when you just want to catch fish"
-}
-,
-{
-"n": "60lb Sliding Snell Snapper & Mulloway Rig",
-"s": "Snapper",
-"l": ["Beach","Boat","Reef"],
-"u": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-60lb-snapper-mulloway-fishing-rig-2-x-octopus-circle-6-0-hooks",
-"w": "Twin snelled circles present large baits naturally for snapper and mulloway in surf or reef zones."
+"w": "Reliable twin-dropper presentation keeps baits visible and off the bottom."
 },
 
 {
@@ -34,6 +20,54 @@
 "s": "Flathead",
 "l": ["Beach","Estuary","Boat"],
 "u": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-mono-flathead-fish-finder-rigs2-x-10-hookssliding-weight-clip-beads",
-"w": "Sliding sinker lets flathead mouth bait naturally before resistance."
+"w": "Sliding sinker allows flathead to take bait naturally before resistance."
+},
+
+{
+"n": "40lb Sliding Snelled Hook Rig 2x Circle 3/0",
+"s": "Mulloway",
+"l": ["Beach","Estuary","Boat"],
+"u": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-sliding-snelled-hook-rigs-2x-circle-3-slash-0-hooks-and-lumo-beads-4x-40l-sld-snl1",
+"w": "Twin snelled circles improve hook-up rates on larger predators."
+},
+
+{
+"n": "60lb Snapper & Mulloway Rig 2x 6/0 Circle Hooks",
+"s": "Snapper",
+"l": ["Beach","Reef","Boat"],
+"u": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-60lb-snapper-mulloway-fishing-rig-2-x-octopus-circle-6-0-hooks",
+"w": "Heavy leader handles reef abrasion while presenting large strip baits naturally."
+},
+
+{
+"n": "Surf Salmon Tailor Flasher Paternoster Rig",
+"s": "Salmon",
+"l": ["Beach"],
+"u": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-surf-salmon-and-tailor-flasher-paternoster-rigs",
+"w": "Flashers trigger reaction strikes in whitewater feeding zones."
+},
+
+{
+"n": "Surf Salmon Tailor Flasher Paternoster Rig",
+"s": "Tailor",
+"l": ["Beach"],
+"u": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-surf-salmon-and-tailor-flasher-paternoster-rigs",
+"w": "Highly visible presentation ideal for aggressive bait-chasing predators."
+},
+
+{
+"n": "Long Cast Pulley Rig No1",
+"s": "Mulloway",
+"l": ["Beach"],
+"u": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-60lb40lb-long-cast-beach-pulley-rig-no1-2x-10-hooks",
+"w": "Pulley release system increases casting distance and reduces snagging after hook-up."
+},
+
+{
+"n": "Toothy Critter Long Cast Pulley Rig 4/0",
+"s": "Tailor",
+"l": ["Beach"],
+"u": "https://wiggleyawormrigs.com/online-shop/ols/products/toothy-critter-60lb-slash-110lb-long-cast-beach-pulley-rig-4-slash-0-hook-rig-6-tth-crt-60l-1102",
+"w": "Wire trace protects against bite-offs when casting whole pilchards long distance."
 }
 ]
