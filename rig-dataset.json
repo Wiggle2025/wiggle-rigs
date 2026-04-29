@@ -1,73 +1,151 @@
 [
 {
-"n": "3x Hand Tied Whiting Double Paternoster rigs #2 Worm hooks & Blue Fisheye Beads",
-"s": "Whiting",
-"l": ["Beach","Rocks","Jetty","Estuary","Boat"],
-"u": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-hand-tied-whiting-double-paternoster-rigs-2-worm-hooks--blue-fisheye-beads",
-"w": "Fisheye beads add visual attraction that whiting key in on over clean sand."
+"n": "Whiting Double Paternoster Rig",
+"s": ["Whiting","Bream","Flathead"],
+"e": ["Beach","Estuary","Riverbank","Jetty","Boat"],
+"c": ["Light Current"],
+"b": ["Worms","Prawns"],
+"u": "WHITING_PATERNOSTER_URL",
+"w": "Keeps light worm or prawn baits just above the sand where whiting feed."
 },
 
 {
-"n": "4x Everyday Hand Twisted Paternoster rigs 2x 1/0 hooks Green Lumo Beads",
-"s": "Whiting",
-"l": ["Beach","Estuary","Boat","River","Jetty","Rocks"],
-"u": "https://wiggleyawormrigs.com/online-shop/ols/products/4xeveryday-hand-twisted-paternoster-rig-2x-1-slash-0-hooks-and-green-luminous-beads",
-"w": "Reliable twin-dropper presentation keeps baits visible and off the bottom."
+"n": "Everyday Twisted Paternoster Rig",
+"s": ["Whiting","Bream","Flathead","Tailor"],
+"e": ["Beach","Estuary","Riverbank","Jetty","Boat"],
+"c": ["Light Current","Moderate Current"],
+"b": ["Worms","Prawns","Strip bait"],
+"u": "EVERYDAY_PATERNOSTER_URL",
+"w": "Reliable general-purpose surf and estuary rig that presents two baits cleanly."
 },
 
 {
-"n": "40lb Mono Flathead Fish Finder Rig",
-"s": "Flathead",
-"l": ["Beach","Estuary","Boat"],
-"u": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-mono-flathead-fish-finder-rigs2-x-10-hookssliding-weight-clip-beads",
-"w": "Sliding sinker allows flathead to take bait naturally before resistance."
+"n": "Sliding Snell Mulloway Rig",
+"s": ["Mulloway","Snapper"],
+"e": ["Beach","Estuary","Riverbank","Jetty"],
+"c": ["Light Current","Moderate Current"],
+"b": ["Pilchard / Whole Fish","Live bait","Strip bait"],
+"u": "SLIDING_SNELL_URL",
+"w": "Twin snelled hooks keep large bait straight for mulloway and snapper."
 },
 
 {
-"n": "40lb Sliding Snelled Hook Rig 2x Circle 3/0",
-"s": "Mulloway",
-"l": ["Beach","Estuary","Boat"],
-"u": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-sliding-snelled-hook-rigs-2x-circle-3-slash-0-hooks-and-lumo-beads-4x-40l-sld-snl1",
-"w": "Twin snelled circles improve hook-up rates on larger predators."
-},
-
-{
-"n": "60lb Snapper & Mulloway Rig 2x 6/0 Circle Hooks",
-"s": "Snapper",
-"l": ["Beach","Reef","Boat"],
-"u": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-60lb-snapper-mulloway-fishing-rig-2-x-octopus-circle-6-0-hooks",
-"w": "Heavy leader handles reef abrasion while presenting large strip baits naturally."
-},
-
-{
-"n": "Surf Salmon Tailor Flasher Paternoster Rig",
-"s": "Salmon",
-"l": ["Beach"],
-"u": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-surf-salmon-and-tailor-flasher-paternoster-rigs",
-"w": "Flashers trigger reaction strikes in whitewater feeding zones."
-},
-
-{
-"n": "Surf Salmon Tailor Flasher Paternoster Rig",
-"s": "Tailor",
-"l": ["Beach"],
-"u": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-surf-salmon-and-tailor-flasher-paternoster-rigs",
-"w": "Highly visible presentation ideal for aggressive bait-chasing predators."
+"n": "Surf Salmon Flasher Paternoster",
+"s": ["Salmon","Tailor"],
+"e": ["Beach"],
+"c": ["Moderate Current","Strong Current"],
+"b": ["Pilchard / Whole Fish","Strip bait"],
+"u": "SALMON_FLASHER_URL",
+"w": "Flash and movement help salmon locate baits in turbulent surf gutters."
 },
 
 {
 "n": "Long Cast Pulley Rig No1",
-"s": "Mulloway",
-"l": ["Beach"],
-"u": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-60lb40lb-long-cast-beach-pulley-rig-no1-2x-10-hooks",
-"w": "Pulley release system increases casting distance and reduces snagging after hook-up."
+"s": ["Whiting","Bream","Flathead","Tailor","Salmon"],
+"e": ["Beach"],
+"c": ["Moderate Current","Strong Current"],
+"b": ["Worms","Pilchard / Whole Fish","Strip bait"],
+"u": "PULLEY_NO1_URL",
+"w": "Pulley system protects bait during cast and improves distance in surf."
 },
 
 {
-"n": "Toothy Critter Long Cast Pulley Rig 4/0",
-"s": "Tailor",
-"l": ["Beach"],
-"u": "https://wiggleyawormrigs.com/online-shop/ols/products/toothy-critter-60lb-slash-110lb-long-cast-beach-pulley-rig-4-slash-0-hook-rig-6-tth-crt-60l-1102",
-"w": "Wire trace protects against bite-offs when casting whole pilchards long distance."
+"n": "Long Cast Pulley Rig No42",
+"s": ["Whiting","Bream","Flathead","Tailor","Salmon"],
+"e": ["Beach"],
+"c": ["Moderate Current","Strong Current"],
+"b": ["Worms","Pilchard / Whole Fish","Strip bait"],
+"u": "PULLEY_NO42_URL",
+"w": "Designed for distance casting while keeping bait streamlined."
+},
+
+{
+"n": "Heavy Duty Long Cast Pulley Rig No4",
+"s": ["Snapper","Mulloway","Tailor","Large sharks"],
+"e": ["Beach","Jetty","Boat"],
+"c": ["Moderate Current","Strong Current"],
+"b": ["Pilchard / Whole Fish","Strip bait","Live bait"],
+"u": "PULLEY_NO4_URL",
+"w": "Heavy leader handles powerful fish and large surf baits."
+},
+
+{
+"n": "Cannonball Long Cast Rig 6/0",
+"s": ["Mulloway","Tailor","Salmon"],
+"e": ["Beach"],
+"c": ["Moderate Current","Strong Current"],
+"b": ["Pilchard / Whole Fish","Strip bait"],
+"u": "CANNONBALL_6_URL",
+"w": "Compact aerodynamic rig for maximum casting distance."
+},
+
+{
+"n": "Cannonball Long Cast Rig 8/0",
+"s": ["Mulloway","Snapper","Large sharks"],
+"e": ["Beach"],
+"c": ["Moderate Current","Strong Current"],
+"b": ["Pilchard / Whole Fish","Live bait"],
+"u": "CANNONBALL_8_URL",
+"w": "Built for casting large baits to bigger predators."
+},
+
+{
+"n": "Toothy Critter Wire Pulley Rig",
+"s": ["Tailor","Large sharks","Kingfish"],
+"e": ["Beach","Jetty","Boat"],
+"c": ["Moderate Current","Strong Current"],
+"b": ["Pilchard / Whole Fish","Strip bait"],
+"u": "TOOTHY_CRITTER_URL",
+"w": "Wire trace prevents bite-offs from toothy predators."
+},
+
+{
+"n": "Reef Paternoster Rig 80lb",
+"s": ["Reef species","Snapper"],
+"e": ["Reef","Offshore","Boat"],
+"c": ["Moderate Current","Strong Current"],
+"b": ["Squid","Strip bait","Pilchard / Whole Fish"],
+"u": "REEF_PATERNOSTER_80_URL",
+"w": "Strong dropper rig keeps baits clear of reef structure."
+},
+
+{
+"n": "Heavy Reef Paternoster Rig 10/0",
+"s": ["Reef species","Large sharks","Snapper"],
+"e": ["Reef","Offshore","Boat"],
+"c": ["Strong Current"],
+"b": ["Squid","Live bait","Strip bait"],
+"u": "REEF_PATERNOSTER_10_URL",
+"w": "Heavy-duty rig designed for deep reef and large fish."
+},
+
+{
+"n": "Gummy Shark Running Rig",
+"s": ["Gummy shark"],
+"e": ["Beach","Boat"],
+"c": ["Light Current","Moderate Current"],
+"b": ["Strip bait","Squid"],
+"u": "GUMMY_RUNNING_URL",
+"w": "Simple running rig allows natural bait presentation for gummies."
+},
+
+{
+"n": "Castable Wire Shark Rig",
+"s": ["Large sharks"],
+"e": ["Beach","Jetty"],
+"c": ["Moderate Current","Strong Current"],
+"b": ["Live bait","Pilchard / Whole Fish"],
+"u": "CASTABLE_SHARK_URL",
+"w": "Wire trace protects against bite-offs when targeting large sharks."
+},
+
+{
+"n": "Heavy 650lb Shark Trace Rig",
+"s": ["Large sharks"],
+"e": ["Beach","Boat"],
+"c": ["Moderate Current","Strong Current"],
+"b": ["Live bait","Whole Fish"],
+"u": "650LB_TRACE_URL",
+"w": "Ultra-heavy trace designed for serious land-based shark fishing."
 }
 ]
