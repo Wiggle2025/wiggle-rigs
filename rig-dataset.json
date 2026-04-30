@@ -1,80 +1,100 @@
 [
-  {
-    "name": "Heavy Duty Long Cast Pulley Rig No4 8/0",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-80lb60lb-heavy-duty-long-cast-pulley-rig-no4-80-hook",
-    "image": "https://cdn.godaddysites.com/media/80lb60lb-heavy-duty-long-cast-pulley-rig-no4.jpg",
-    "rig_type": "Long Cast Pulley"
-  },
-  {
-    "name": "Long Distance Casting Beach Pulley Rig No42 Twin 1/0",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb40lb-long-distance-casting-beach-pulley-rig-no42-2x-10-circle-hooks",
-    "image": "https://cdn.godaddysites.com/media/pulley-rig-no42.jpg",
-    "rig_type": "Long Cast Pulley"
-  },
-  {
-    "name": "Long Cast Beach Pulley Rig No2 5/0",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-60lb40lb-long-cast-beach-pulley-rig-no2-50-hook",
-    "image": "https://cdn.godaddysites.com/media/pulley-rig-no2.jpg",
-    "rig_type": "Long Cast Pulley"
-  },
-  {
-    "name": "Long Cast Beach Pulley Rig No3 3/0 & 2/0",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-60lb40lb-long-casting-beach-pulley-rig-no3-30-20-hooks",
-    "image": "https://cdn.godaddysites.com/media/pulley-rig-no3.jpg",
-    "rig_type": "Long Cast Pulley"
-  },
-  {
-    "name": "Long Cast Beach Pulley Rig No5 2x 2/0",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-60lb40lb-long-cast-paternoster-pulley-rig-no5-2x-20-hooks",
-    "image": "https://cdn.godaddysites.com/media/pulley-rig-no5.jpg",
-    "rig_type": "Long Cast Paternoster Pulley"
-  },
-  {
-    "name": "Toothy Critter Long Cast Pulley Rig 6/0",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/toothy-critter-60lb-slash-110lb-wire-long-cast-beach-pulley-rig-no69-3x-4-slash-ganged-hooks-hand-tied",
-    "image": "https://cdn.godaddysites.com/media/toothy-critter-rig.jpg",
-    "rig_type": "Long Cast Pulley Wire"
-  },
-  {
-    "name": "Long Cast Flasher Pulley Rig 6/0",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb-slash-40lb-mono-long-cast-beach-pulley-rig-3x-1-slash-6-ganged-hooks-hand-tied",
-    "image": "https://cdn.godaddysites.com/media/flasher-pulley-rig.jpg",
-    "rig_type": "Long Cast Pulley Flasher"
-  },
-  {
-    "name": "Cannonball Long Distance Casting Rig 6/0",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/80lb-cannonball-long-distance-casting-rigs-6-slash-0-circle-hook-hand-tied",
-    "image": "https://cdn.godaddysites.com/media/cannonball-rig.jpg",
-    "rig_type": "Long Cast Cannonball"
-  },
-  {
-    "name": "Castable Wire Shark Rig 8/0",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-castable-110lb-coated-wire-shark-rigs-80-octopus-circle-hooks",
-    "image": "https://cdn.godaddysites.com/media/castable-wire-shark.jpg",
-    "rig_type": "Shark Wire Castable"
-  },
-  {
-    "name": "Apex Pro Shark Rig 20/0",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/apex-pro-shark-rig-200-circle-hook-650lb-wire-10m-leader-drone-shark-rig",
-    "image": "https://cdn.godaddysites.com/media/apex-pro-shark.jpg",
-    "rig_type": "Shark Long Trace"
-  },
-  {
-    "name": "Sliding Snell Snapper & Mulloway Rig 6/0",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-estuary-snapper-mulloway-rigs-40lb-2x-6-0-circle-hooks-sliding-snell",
-    "image": "https://cdn.godaddysites.com/media/sliding-snell-rig.jpg",
-    "rig_type": "Sliding Snell"
-  },
-  {
-    "name": "Mono Flathead Fish Finder Rig",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-mono-flathead-fish-finder-rigs-2x-1-0-hooks-sliding-weight-clip-beads",
-    "image": "https://cdn.godaddysites.com/media/flathead-fish-finder.jpg",
-    "rig_type": "Fish Finder"
-  },
-  {
-    "name": "Deep Drop Snapper Rig 80lb Mono",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-40lb-mono-fish-finder-deep-drop-snapper-rigs-80lb-sliding-ball-sinker-80-hook",
-    "image": "https://cdn.godaddysites.com/media/deep-drop-snapper.jpg",
-    "rig_type": "Deep Drop Reef"
-  }
+{
+"name": "Wiggle ya Worm Hand Tied 80lb/60lb Heavy Duty Long Cast Pulley Rig No4, 8/0 hook",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-80lb60lb-heavy-duty-long-cast-pulley-rig-no4-80-hook",
+"image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Front%20cover%20heavy%20duty%20long%20distance%20casting%20r.png",
+"rig_type": "long_cast_pulley",
+"usage": "cast",
+"environment": ["surf"],
+"species": ["mulloway","snapper","tailor","mixed_species"],
+"distance": "long",
+"bait_size": "large",
+"float_support": false,
+"structure": false
+},
+
+{
+"name": "60lb/40lb Long Distance Casting Beach Pulley Rig No42, 2x 1/0 CIRCLE hooks",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb40lb-long-distance-casting-beach-pulley-rig-no42-2x-10-circle-hooks",
+"image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front-cover-long-cast-pulley.png",
+"rig_type": "long_cast_pulley",
+"usage": "cast",
+"environment": ["surf"],
+"species": ["whiting","bream","flathead","mixed_species"],
+"distance": "long",
+"bait_size": "small",
+"float_support": false,
+"structure": false
+},
+
+{
+"name": "Toothy Critter 60lb / 110lb Long Cast Beach Pulley Rig – 6/0 Circle Hook",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/toothy-critter-60lb110lb-wire-long-cast-beach-pulley-rig-no69-3x-4-slash-0-ganged-hooks-hand-tied",
+"image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front-cover-toothy-critter.png",
+"rig_type": "long_cast_wire",
+"usage": "cast",
+"environment": ["surf","rocks"],
+"species": ["tailor","salmon","mackerel","toothy_species"],
+"distance": "long",
+"bait_size": "medium",
+"float_support": false,
+"structure": true
+},
+
+{
+"name": "4x Hand tied Castable 110lb coated wire Shark rigs, 8/0 octopus circle hooks",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-castable-110lb-coated-wire-shark-rigs-80-octopus-circle-hooks",
+"image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/shark-castable-wire.png",
+"rig_type": "shark_castable_wire",
+"usage": "cast",
+"environment": ["surf","rocks"],
+"species": ["gummy_shark","bronze_whaler","bull_shark"],
+"distance": "medium",
+"bait_size": "large",
+"float_support": false,
+"structure": true
+},
+
+{
+"name": "Apex Pro Shark Rig 20/0 Circle Hook 650lb Wire 10m Leader Drone Shark Rig",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/apex-pro-shark-rig-200-circle-hook-650lb-wire-10m-leader-drone-shark-rig",
+"image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/apex-pro.png",
+"rig_type": "shark_long_trace",
+"usage": "deploy",
+"environment": ["surf","rocks"],
+"species": ["large_sharks"],
+"distance": "deploy",
+"bait_size": "extra_large",
+"float_support": false,
+"structure": true
+},
+
+{
+"name": "4x 40lb Mono Flathead Fish Finder Rigs",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-mono-flathead-fish-finder-rigs",
+"image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/flathead-fishfinder.png",
+"rig_type": "fish_finder",
+"usage": "cast",
+"environment": ["estuary","surf"],
+"species": ["flathead"],
+"distance": "short",
+"bait_size": "medium",
+"float_support": false,
+"structure": false
+},
+
+{
+"name": "4x Hand Tied Snapper & Mulloway Fishing Rigs – Twin 6/0 Octopus Circle Hooks",
+"url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-60lb-snapper-mulloway-fishing-rigs-2x-octopus-circle-hooks-sliding-snell",
+"image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/sliding-snell.png",
+"rig_type": "sliding_snell",
+"usage": "cast",
+"environment": ["surf","rocks"],
+"species": ["snapper","mulloway"],
+"distance": "medium",
+"bait_size": "large",
+"float_support": false,
+"structure": true
+}
+
 ]
