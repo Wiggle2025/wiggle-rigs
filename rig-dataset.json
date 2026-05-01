@@ -1,6 +1,51 @@
-[
-  {
-    "name": "Wiggle ya Worm Hand Tied 80lb/60lb Heavy Duty Long Cast Pulley Rig No4, 8/0 hook",
+{
+"_ranking_patch_v2": {
+  "species_alias": {
+    "sharks": "shark",
+    "large sharks": "large_sharks",
+    "gummy": "gummy_shark",
+    "gummy sharks": "gummy_shark"
+  },
+
+  "primary_species_rules": [
+    { "match": "tailor", "set": "tailor", "weight": 140 },
+    { "match": "flathead", "set": "flathead", "weight": 140 },
+    { "match": "whiting", "set": "whiting", "weight": 140 },
+    { "match": "bream", "set": "bream", "weight": 140 },
+
+    { "match": "snapper & mulloway", "set": "mulloway", "weight": 120 },
+    { "match": "mulloway", "set": "mulloway", "weight": 120 },
+    { "match": "snapper", "set": "snapper", "weight": 120 },
+
+    { "match": "gummy", "set": "gummy_shark", "weight": 140 },
+
+    { "match": "apex", "set": "large_sharks", "weight": 150 },
+    { "match": "slide", "set": "large_sharks", "weight": 130 },
+    { "match": "trace", "set": "large_sharks", "weight": 120 },
+
+    { "match": "pompano", "set": "mixed_species", "weight": 40 },
+    { "match": "all species", "set": "mixed_species", "weight": 10 },
+
+    { "match": "pulley", "set": "surf_general", "weight": 60 },
+    { "match": "long cast", "set": "surf_general", "weight": 60 }
+  ],
+
+  "includes_sinkers_rules": [
+    "sliding sinker",
+    "ball sinker",
+    "complete rig",
+    "ready to fish",
+    "supplied sinker"
+  ],
+
+  "deploy_priority_rules": [
+    "slide",
+    "apex",
+    "trace"
+},
+"rigs": [
+{
+"name": "Wiggle ya Worm Hand Tied 80lb/60lb Heavy Duty Long Cast Pulley Rig No4, 8/0 hook",
     "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-80lb60lb-heavy-duty-long-cast-pulley-rig-no4-80-hook",
     "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Front%20cover%20heavy%20duty%20long%20distance%20casting%20r.png",
     "rig_type": "Pulley Rig",
@@ -3269,5 +3314,6 @@
     "structure": true,
     "match_strength_base": "",
     "source_match_score": 0.627
-  }
+ }
 ]
+}
