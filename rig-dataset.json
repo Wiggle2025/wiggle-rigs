@@ -1,4 +1,4 @@
-window.rigsData = {
+{
   "_ranking_patch_v2": {
   "species_alias": {
     "sharks": "shark",
@@ -3314,6 +3314,4 @@ window.rigsData = {
     "structure": true,
     "match_strength_base": "",
     "source_match_score": 0.627
- }
-]
-};
+}
