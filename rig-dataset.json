@@ -38,11 +38,12 @@
     "supplied sinker"
   ],
 
-  "deploy_priority_rules": [
-    "slide",
-    "apex",
-    "trace"
-},
+ "deploy_priority_rules": [
+  "slide",
+  "apex",
+  "trace"
+],
+    
 "rigs": [
 {
 "name": "Wiggle ya Worm Hand Tied 80lb/60lb Heavy Duty Long Cast Pulley Rig No4, 8/0 hook",
@@ -3311,7 +3312,9 @@
     ],
     "float_support": false,
     "reaction_trigger": false,
-    "structure": true,
+        "structure": true,
     "match_strength_base": "",
     "source_match_score": 0.627
+  }
+]
 }
