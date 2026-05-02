@@ -1,5 +1,5 @@
-{
-"_ranking_patch_v2": {
+window.rigsData = {
+  "_ranking_patch_v2": {
   "species_alias": {
     "sharks": "shark",
     "large sharks": "large_sharks",
