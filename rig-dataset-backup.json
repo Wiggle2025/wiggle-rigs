@@ -1680,319 +1680,413 @@
   "priority": 145
 },
   {
-    "name": "4 x Castable 110lb coated wire Shark fishing rig, 6/0 octopus circle hook",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4-x-castable-110lb-coated-wire-shark-fishing-rig-60-octopus-circle-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/RIVER%20SHARK%20MULTIPACK.png",
-    "rig_type": "Castable Shark Wire",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "boat",
-      "reef"
-    ],
-    "species": [
-      "large sharks",
-      "gummy shark"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "reef edge"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "110–650lb wire",
-    "why": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "w": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "cap": [
-      "long casting",
-      "reef structure control",
-      "bite protection"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "castable_shark_110lb_6_0_pack",
+  "name": "4 x Castable 110lb Coated Wire Shark Fishing Rig – 6/0 Octopus Circle Hook",
+  "family": "castable_shark",
+  "rig_type": "castable_shark_rig",
+
+  "primary_species": [
+    "gummy_shark"
+  ],
+
+  "secondary_species": [
+    "large_sharks"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "boat",
+    "reef"
+  ],
+
+  "bait": [
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "medium",
+    "long"
+  ],
+
+  "usage": "Castable coated-wire shark rig designed for surf and offshore predator fishing.",
+
+  "bait_size": "large",
+
+  "hook_min": 6,
+  "hook_max": 6,
+  "hook_text": "6/0 Octopus Circle Hook",
+
+  "leader": "110lb coated wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended for surf and rough ground conditions.",
+
+  "guide_url": "/land-based-shark-fishing-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4-x-castable-110lb-coated-wire-shark-fishing-rig-60-octopus-circle-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/RIVER%20SHARK%20MULTIPACK.png",
+
+  "why": "Castable coated-wire shark rig helps prevent bite-offs while remaining manageable for surf casting.",
+
+  "priority": 145
+},
   {
-    "name": "4 x Hand tied Castable 110lb coated wire Gummy Shark fishing rigs, 6/0 hook",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4-x-hand-tied-castable-110lb-coated-wire-gummy-shark-fishing-rigs-60-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4x%20rigs.png",
-    "rig_type": "Castable Shark Wire",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "boat",
-      "reef"
-    ],
-    "species": [
-      "gummy shark",
-      "large sharks"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "reef edge"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "110–650lb wire",
-    "why": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "w": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "cap": [
-      "long casting",
-      "reef structure control",
-      "bite protection"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "castable_shark_gummy_110lb_6_0_pack",
+  "name": "4 x Hand Tied Castable 110lb Coated Wire Gummy Shark Fishing Rigs – 6/0 Hook",
+  "family": "castable_shark",
+  "rig_type": "castable_shark_rig",
+
+  "primary_species": [
+    "gummy_shark"
+  ],
+
+  "secondary_species": [
+    "large_sharks"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "boat",
+    "reef"
+  ],
+
+  "bait": [
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "medium",
+    "long"
+  ],
+
+  "usage": "Castable gummy shark rig designed for surf and offshore predator fishing.",
+
+  "bait_size": "large",
+
+  "hook_min": 6,
+  "hook_max": 6,
+  "hook_text": "6/0 Hook",
+
+  "leader": "110lb coated wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended for surf and rough ground conditions.",
+
+  "guide_url": "/land-based-shark-fishing-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4-x-hand-tied-castable-110lb-coated-wire-gummy-shark-fishing-rigs-60-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4x%20rigs.png",
+
+  "why": "Castable coated-wire gummy shark rig provides bite protection while remaining manageable for surf casting.",
+
+  "priority": 146
+},
+ {
+  "id": "castable_shark_150lb_10_0_pack",
+  "name": "4x Hand Tied Castable 150lb Coated Wire Shark Rig – Double Crimped 10/0 Hook",
+  "family": "castable_shark",
+  "rig_type": "castable_shark_rig",
+
+  "primary_species": [
+    "large_sharks"
+  ],
+
+  "secondary_species": [
+    "gummy_shark"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "boat",
+    "reef"
+  ],
+
+  "bait": [
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "medium",
+    "long"
+  ],
+
+  "usage": "Heavy-duty castable shark rig designed for larger surf and offshore predators.",
+
+  "bait_size": "large",
+
+  "hook_min": 10,
+  "hook_max": 10,
+  "hook_text": "10/0 Hook",
+
+  "leader": "150lb coated wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended for surf and rough ground conditions.",
+
+  "guide_url": "/land-based-shark-fishing-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-castable-150lb-coated-wire-shark-rig-double-crimped100-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/shark%204%20pack.png",
+
+  "why": "Heavy coated-wire shark rig provides increased bite protection while remaining suitable for long-distance surf casting.",
+
+  "priority": 147
+},
+ {
+  "id": "mixed_species_ready_rig_paternoster_pack",
+  "name": "3x Baited & Weighted Ready-to-Fish Paternoster Rigs – Freshwater & Saltwater",
+  "family": "mixed_species",
+  "rig_type": "twisted_paternoster",
+
+  "primary_species": [
+    "mixed_species"
+  ],
+
+  "secondary_species": [],
+
+  "environment": [
+    "beach",
+    "surf",
+    "estuary"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "General-purpose ready-to-fish paternoster rig for mixed fishing environments.",
+
+  "bait_size": "medium",
+
+  "hook_min": 1,
+  "hook_max": 4,
+  "hook_text": "Pre-rigged hooks",
+
+  "leader": "Match rig rating",
+
+  "sinker_included": true,
+  "sinker_recommendation": "",
+
+  "guide_url": "/rig-setup-guides",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-baited--weighted-ready-to-fish-paternoster-freshwater--saltwater-rigs",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/silicone%20prawn%20details.png",
+
+  "why": "General-purpose ready-to-fish paternoster rig suited to mixed fishing conditions and multiple species.",
+
+  "priority": 120
+},
+ {
+  "id": "whiting_paternoster_20lb_size2_pack",
+  "name": "3x Hand Tied Whiting Double Paternoster Rigs – No.2 Worm Hooks & Blue Fisheye Beads",
+  "family": "whiting_paternoster",
+  "rig_type": "double_paternoster",
+
+  "primary_species": [
+    "whiting"
+  ],
+
+  "secondary_species": [
+    "bream",
+    "dart"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "estuary"
+  ],
+
+  "bait": [
+    "worm",
+    "pipi",
+    "prawn"
+  ],
+
+  "current": [
+    "light",
+    "moderate"
+  ],
+
+  "distance": [
+    "short"
+  ],
+
+  "usage": "Light whiting paternoster rig for beach and estuary fishing.",
+
+  "bait_size": "small",
+
+  "hook_min": 2,
+  "hook_max": 2,
+  "hook_text": "No.2 Worm Hooks",
+
+  "leader": "20lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Small ball or star sinker matched to tidal current strength.",
+
+  "guide_url": "/whiting-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-hand-tied-whiting-double-paternoster-rigs-2-worm-hooks--blue-fisheye-beads",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/general%20arrangement%203%20packs.png",
+
+  "why": "Elevated worm-hook presentation helps keep small baits in the feeding zone while reducing crab interference.",
+
+  "priority": 145
+},
   {
-    "name": "4x Hand tied Castable 150lb coated wire Shark rig, double crimped10/0 hook",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-castable-150lb-coated-wire-shark-rig-double-crimped100-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/shark%204%20pack.png",
-    "rig_type": "Castable Shark Wire",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "boat",
-      "reef"
-    ],
-    "species": [
-      "large sharks",
-      "gummy shark"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "reef edge"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "110–650lb wire",
-    "why": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "w": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "cap": [
-      "long casting",
-      "reef structure control",
-      "bite protection"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "3x Baited & Weighted Ready-to-Fish Paternoster Rigs – Freshwater & Saltwater",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-baited--weighted-ready-to-fish-paternoster-freshwater--saltwater-rigs",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/silicone%20prawn%20details.png",
-    "rig_type": "Twisted Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "mixed species"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "Match rig rating",
-    "why": "General-purpose rig suited to mixed surf conditions.",
-    "w": "General-purpose rig suited to mixed surf conditions.",
-    "cap": [],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "3x Hand Tied Whiting Double Paternoster Rigs – No.2 Worm Hooks & Blue Fisheye Beads",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-hand-tied-whiting-double-paternoster-rigs-2-worm-hooks--blue-fisheye-beads",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/general%20arrangement%203%20packs.png",
-    "rig_type": "Whiting Double Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "estuary"
-    ],
-    "species": [
-      "whiting",
-      "bream",
-      "dart"
-    ],
-    "bait": [
-      "worms",
-      "worm"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "short",
-    "distance": "short",
-    "bait_size": "small",
-    "terrain": [
-      "clean sand"
-    ],
-    "sinker": "Small star sinker or ball sinker",
-    "sk": "Small star sinker or ball sinker",
-    "leader": "20lb mono",
-    "why": "Elevated worm-hook presentation keeps small baits in the feeding zone and helps reduce crab interference.",
-    "w": "Elevated worm-hook presentation keeps small baits in the feeding zone and helps reduce crab interference.",
-    "cap": [
-      "bait lift"
-    ],
-    "float_support": true,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "4 × 40lb Bream (Brim) Twisted Paternoster Rigs – Twin Size 1 Red Hooks – Hand Tied",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-brim-bream-twisted-paternoster-rigs-2x-size-1-red-hooks-hand-tied",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack-c28482b.png",
-    "rig_type": "Twisted Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "bream"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "Match rig rating",
-    "why": "General-purpose rig suited to mixed surf conditions.",
-    "w": "General-purpose rig suited to mixed surf conditions.",
-    "cap": [],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "4x “Everyday” Hand-Twisted Paternoster Rigs – 40lb – 2x 1/0 Hooks & Green Lumo Beads",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4xeveryday-hand-twisted-paternoster-rig-2x-1-slash-0-hooks-and-green-luminous-beads",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4XEVERY.png",
-    "rig_type": "Twisted Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "mixed species"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "Match rig rating",
-    "why": "General-purpose rig suited to mixed surf conditions.",
-    "w": "General-purpose rig suited to mixed surf conditions.",
-    "cap": [],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "surf_paternoster_40lb_bream_size1_pack",
+  "name": "4 × 40lb Bream (Brim) Twisted Paternoster Rigs – Twin Size 1 Red Hooks – Hand Tied",
+  "family": "surf_paternoster",
+  "rig_type": "twisted_paternoster",
+
+  "primary_species": [
+    "bream"
+  ],
+
+  "secondary_species": [
+    "dart",
+    "whiting"
+  ],
+
+  "environment": [
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "worm",
+    "prawn"
+  ],
+
+  "current": [
+    "light",
+    "moderate"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Twisted paternoster rig designed for surf and beach bream fishing.",
+
+  "bait_size": "small",
+
+  "hook_min": 1,
+  "hook_max": 1,
+  "hook_text": "Twin Size 1 Red Hooks",
+
+  "leader": "40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Small star or ball sinker matched to tidal current strength.",
+
+  "guide_url": "/bream-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-brim-bream-twisted-paternoster-rigs-2x-size-1-red-hooks-hand-tied",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack-c28482b.png",
+
+  "why": "Twisted paternoster layout helps present smaller baits cleanly in surf conditions while reducing tangles.",
+
+  "priority": 138
+},
+ {
+  "id": "surf_paternoster_everyday_40lb_1_0_pack",
+  "name": "4x “Everyday” Hand-Twisted Paternoster Rigs – 40lb – 2x 1/0 Hooks & Green Lumo Beads",
+  "family": "surf_paternoster",
+  "rig_type": "twisted_paternoster",
+
+  "primary_species": [
+    "mixed_species"
+  ],
+
+  "secondary_species": [
+    "bream",
+    "whiting",
+    "dart",
+    "tailor"
+  ],
+
+  "environment": [
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "pilchard",
+    "prawn"
+  ],
+
+  "current": [
+    "light",
+    "moderate"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "General-purpose surf paternoster rig for mixed beach fishing conditions.",
+
+  "bait_size": "medium",
+
+  "hook_min": 1,
+  "hook_max": 1,
+  "hook_text": "2x 1/0 Hooks",
+
+  "leader": "40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star or ball sinker matched to tidal current strength.",
+
+  "guide_url": "/rig-setup-guides",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4xeveryday-hand-twisted-paternoster-rig-2x-1-slash-0-hooks-and-green-luminous-beads",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4XEVERY.png",
+
+  "why": "General-purpose twisted paternoster rig designed for reliable bait presentation across mixed surf fishing conditions.",
+
+  "priority": 135
+},
   {
     "name": "4x Hand Tied Aussie Salmon 40lb Twisted Paternosta rig, 2 x Heavy Duty 2/0 hooks",
     "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-aussie-salmon-40lb-twisted-paternosta-rig-2-x-heavy-duty-20-hooks",
