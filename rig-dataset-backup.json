@@ -45,7 +45,6 @@
 ]
 },
 "rigs": [
-```json
 {
   "id": "long_cast_pulley_80lb_8_0",
   "name": "Wiggle ya Worm Hand Tied 80lb/60lb Heavy Duty Long Cast Pulley Rig No4, 8/0 Hook",
@@ -346,7 +345,7 @@
 
   "priority": 141
 },
- ```json id="3u3mow"
+
 {
   "id": "long_cast_pulley_paternoster_2_0",
   "name": "Wiggle ya Worm 60lb/40lb Long Cast Paternoster Pulley Rig No5, 2x 2/0 Hooks",
@@ -702,7 +701,7 @@
 
   "priority": 144
 },
-  ```json id="04n4d4"
+  
 {
   "id": "cannonball_long_cast_80lb_6_0",
   "name": "4x 80lb Cannonball Long Distance Casting Rigs – 6/0 Circle Hook",
