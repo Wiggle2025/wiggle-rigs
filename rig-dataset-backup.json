@@ -346,301 +346,362 @@
 
   "priority": 141
 },
-  {
-    "name": "Wiggle ya Worm 60lb/40lb Long Cast Paternoster Pulley Rig No5, 2x 2/0 hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-60lb40lb-long-cast-paternoster-pulley-rig-no5-2x-20-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover%20diagram%20paternoster%20long%20cast%20rig.png",
-    "rig_type": "Pulley Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "60lb / 40lb pulley trace",
-    "why": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "w": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "60lb / 110lb Wire Long Cast Beach Pulley Rig No.69 – 3 × 4/0 Ganged Hooks – Hand Tied",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb-slash-40lb-long-distance-casting-beach-pulley-rig-no42-2x-1-slash-0-circle-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover%20rig%2069.png",
-    "rig_type": "Pulley Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "60lb / 40lb pulley trace",
-    "why": "Ganged long-cast pulley layout keeps baitfish straight and casts them into outer gutters.",
-    "w": "Ganged long-cast pulley layout keeps baitfish straight and casts them into outer gutters.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "Toothy Critter 60lb / 110lb Long Cast Beach Pulley Rig – 6/0 Circle Hook (Rig 57) – Hand Tied",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb-slash-110lb-wire-long-cast-beach-pulley-rig-no69-3x-4-slash-0-ganged-hooks-hand-tied",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover-ce02f0f.png",
-    "rig_type": "Pulley Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "60lb / 40lb pulley trace",
-    "why": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "w": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "60lb / 40lb Mono Long Cast Beach Pulley Rig – 3 × 1/0 Ganged Hooks (Rig 201) – Hand Tied",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/toothey-critter-60lb-slash-110lb-long-cast-beach-pulley-rig-6-slash-0-hook-rig-57",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/FRONT%20COVER%20RIG%20201.png",
-    "rig_type": "Pulley Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "60lb / 40lb pulley trace",
-    "why": "Ganged long-cast pulley layout keeps baitfish straight and casts them into outer gutters.",
-    "w": "Ganged long-cast pulley layout keeps baitfish straight and casts them into outer gutters.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "60lb / 40lb Long Casting Flasher Pulley Rig No.63 – 6/0 Recurve Hook – Hand Tied",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb-slash-40lb-mono-long-cast-beach-pulley-rig-3x-1-slash-0-ganged-hooks-rig-201",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover-2a71481.png",
-    "rig_type": "Flasher Pulley Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "60lb / 40lb pulley trace",
-    "why": "Adds flasher attraction to a long-cast pulley system for reaction strikes in surf.",
-    "w": "Adds flasher attraction to a long-cast pulley system for reaction strikes in surf.",
-    "cap": [
-      "long casting",
-      "visual strike trigger",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": true,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "Toothy Critter 60lb / 110lb Long Cast Beach Pulley Rig – 4/0 Circle Hook – Rig 6",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb-slash-40lb-long-casting-flasher-pulley-rig-no-dot-63-6-slash-0-recurve-hook-hand-tied",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover-07ff02e.png",
-    "rig_type": "Pulley Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "60lb / 40lb pulley trace",
-    "why": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "w": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+ ```json id="3u3mow"
+{
+  "id": "long_cast_pulley_paternoster_2_0",
+  "name": "Wiggle ya Worm 60lb/40lb Long Cast Paternoster Pulley Rig No5, 2x 2/0 Hooks",
+  "family": "long_cast_pulley",
+  "rig_type": "pulley_rig",
+
+  "primary_species": [
+    "mulloway"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "snapper",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Long-distance paternoster pulley rig for surf casting larger natural baits.",
+
+  "bait_size": "medium",
+
+  "hook_min": 2,
+  "hook_max": 2,
+  "hook_text": "2x 2/0 Hooks",
+
+  "leader": "60lb/40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended in active surf and sweep.",
+
+  "guide_url": "/long-cast-pulley-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-60lb40lb-long-cast-paternoster-pulley-rig-no5-2x-20-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover%20diagram%20paternoster%20long%20cast%20rig.png",
+
+  "why": "Paternoster pulley layout helps keep larger baits presented cleanly while improving long-distance casting performance.",
+
+  "priority": 143
+},
+{
+  "id": "long_cast_pulley_ganged_4_0",
+  "name": "60lb/110lb Wire Long Cast Beach Pulley Rig No69 – 3x 4/0 Ganged Hooks",
+  "family": "long_cast_pulley",
+  "rig_type": "pulley_rig",
+
+  "primary_species": [
+    "tailor"
+  ],
+
+  "secondary_species": [
+    "mulloway",
+    "australian_salmon",
+    "snapper"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Ganged-hook pulley rig designed for long-distance pilchard presentation in surf conditions.",
+
+  "bait_size": "medium",
+
+  "hook_min": 4,
+  "hook_max": 4,
+  "hook_text": "3x 4/0 Ganged Hooks",
+
+  "leader": "60lb mono + 110lb wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended for sweep and outer gutter fishing.",
+
+  "guide_url": "/long-cast-pulley-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb-slash-110lb-wire-long-cast-beach-pulley-rig-no69-3x-4-slash-0-ganged-hooks-hand-tied",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover%20rig%2069.png",
+
+  "why": "Ganged pulley layout keeps pilchards straight during long casts while improving hookup consistency on aggressive surf predators.",
+
+  "priority": 144
+},
+{
+  "id": "long_cast_pulley_toothy_6_0",
+  "name": "Toothy Critter 60lb/110lb Long Cast Beach Pulley Rig – 6/0 Circle Hook",
+  "family": "long_cast_pulley",
+  "rig_type": "pulley_rig",
+
+  "primary_species": [
+    "tailor"
+  ],
+
+  "secondary_species": [
+    "mulloway",
+    "snapper",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Heavy-duty long-distance pulley rig for toothy surf predators and rough conditions.",
+
+  "bait_size": "medium",
+
+  "hook_min": 6,
+  "hook_max": 6,
+  "hook_text": "6/0 Circle Hook",
+
+  "leader": "60lb mono + 110lb wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended for strong surf and rough beach conditions.",
+
+  "guide_url": "/long-cast-pulley-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb-slash-110lb-wire-long-cast-beach-pulley-rig-no69-3x-4-slash-0-ganged-hooks-hand-tied",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover-ce02f0f.png",
+
+  "why": "Wire-assisted pulley system helps present larger baits cleanly while resisting bite-offs from aggressive predators.",
+
+  "priority": 145
+},
+{
+  "id": "long_cast_pulley_ganged_1_0",
+  "name": "60lb/40lb Mono Long Cast Beach Pulley Rig – 3x 1/0 Ganged Hooks",
+  "family": "long_cast_pulley",
+  "rig_type": "pulley_rig",
+
+  "primary_species": [
+    "tailor"
+  ],
+
+  "secondary_species": [
+    "australian_salmon",
+    "mulloway"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Long-distance ganged-hook pulley rig for presenting whole pilchards in surf gutters.",
+
+  "bait_size": "medium",
+
+  "hook_min": 1,
+  "hook_max": 1,
+  "hook_text": "3x 1/0 Ganged Hooks",
+
+  "leader": "60lb/40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended for surf sweep and outer gutters.",
+
+  "guide_url": "/long-cast-pulley-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/toothey-critter-60lb-slash-110lb-long-cast-beach-pulley-rig-6-slash-0-hook-rig-57",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/FRONT%20COVER%20RIG%20201.png",
+
+  "why": "Ganged-hook pulley setup keeps pilchards straight and aerodynamic during long surf casts.",
+
+  "priority": 142
+},
+{
+  "id": "long_cast_pulley_flasher_6_0",
+  "name": "60lb/40lb Long Casting Flasher Pulley Rig No63 – 6/0 Recurve Hook",
+  "family": "long_cast_pulley",
+  "rig_type": "flasher_pulley_rig",
+
+  "primary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "secondary_species": [
+    "mulloway",
+    "snapper"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Long-distance flasher pulley rig designed to trigger reaction strikes in surf conditions.",
+
+  "bait_size": "medium",
+
+  "hook_min": 6,
+  "hook_max": 6,
+  "hook_text": "6/0 Recurve Hook",
+
+  "leader": "60lb/40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended in rough surf and strong sweep.",
+
+  "guide_url": "/long-cast-pulley-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb-slash-40lb-long-casting-flasher-pulley-rig-no-dot-63-6-slash-0-recurve-hook-hand-tied",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover-2a71481.png",
+
+  "why": "Flasher attraction combined with a pulley layout helps trigger aggressive surf strikes while maintaining casting distance.",
+
+  "priority": 146
+},
+{
+  "id": "long_cast_pulley_toothy_4_0",
+  "name": "Toothy Critter 60lb/110lb Long Cast Beach Pulley Rig – 4/0 Circle Hook",
+  "family": "long_cast_pulley",
+  "rig_type": "pulley_rig",
+
+  "primary_species": [
+    "tailor"
+  ],
+
+  "secondary_species": [
+    "mulloway",
+    "snapper",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Heavy-duty surf pulley rig for long-distance casting around aggressive predators.",
+
+  "bait_size": "medium",
+
+  "hook_min": 4,
+  "hook_max": 4,
+  "hook_text": "4/0 Circle Hook",
+
+  "leader": "60lb mono + 110lb wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended for rough surf and sweep.",
+
+  "guide_url": "/long-cast-pulley-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb-slash-40lb-long-casting-flasher-pulley-rig-no-dot-63-6-slash-0-recurve-hook-hand-tied",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover-07ff02e.png",
+
+  "why": "Wire-assisted pulley setup improves durability against toothy predators while maintaining long casting performance.",
+
+  "priority": 144
+},
   {
     "name": "4x 80lb Cannonball Long Distance Casting Rigs – 6/0 Circle Hook (Hand Tied)",
     "url": "https://wiggleyawormrigs.com/online-shop/ols/products/toothy-critter-60lb-slash-110lb-long-cast-beach-pulley-rig-4-slash-0-hook-rig-6-tth-crt-60l-1102",
