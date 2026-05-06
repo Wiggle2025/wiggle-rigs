@@ -3270,432 +3270,437 @@
 
   "priority": 164
 },
+ {
+  "id": "gummy_shark_paternoster_6_0_pack",
+  "name": "Gummy Shark Wire / Mono Paternoster Rigs – 6/0 Circle Hook (3 Pack)",
+  "family": "gummy_shark_paternoster",
+  "rig_type": "abrasion_paternoster",
+
+  "primary_species": [
+    "gummy_shark"
+  ],
+
+  "secondary_species": [
+    "school_shark"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "boat"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "whole_fish",
+    "squid"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Abrasion-resistant gummy shark paternoster rig designed for surf and bottom fishing applications.",
+
+  "bait_size": "medium_large",
+
+  "hook_min": 6,
+  "hook_max": 6,
+  "hook_text": "6/0 Circle Hook",
+
+  "leader": "80lb mono backbone with wire dropper and weaker sinker trace",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway or star sinker attached via weaker sacrificial sinker trace.",
+
+  "guide_url": "/land-based-shark-fishing-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-gummy-shark-wire-mono-paternoster-rigs-3-way-orbital-swivel-60-circle-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/3%20pack%20of%20gummy%20pats.png",
+
+  "why": "Wire dropper protects against abrasion and teeth while the weaker sinker section helps preserve the main rig if the sinker snags.",
+
+  "priority": 152
+},
   {
-    "name": "Gummy Shark Wire / Mono Paternoster Rigs – 6/0 Circle Hook (3 Pack)",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-gummy-shark-wire-mono-paternoster-rigs-3-way-orbital-swivel-60-circle-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/3%20pack%20of%20gummy%20pats.png",
-    "rig_type": "Gummy Abrasion Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "boat"
-    ],
-    "species": [
-      "gummy shark"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium–large",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Breakaway or star sinker on weaker sinker trace",
-    "sk": "Breakaway or star sinker on weaker sinker trace",
-    "leader": "80lb mono backbone, wire dropper, weaker sinker trace",
-    "why": "Wire dropper protects against teeth while the weaker sinker section can break away if snagged, keeping the main rig and fish connected.",
-    "w": "Wire dropper protects against teeth while the weaker sinker section can break away if snagged, keeping the main rig and fish connected.",
-    "cap": [
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "gummy_shark_paternoster_8_0_pack",
+  "name": "Gummy Shark Wire / Mono Paternoster Rigs – 8/0 Circle Hook (3 Pack)",
+  "family": "gummy_shark_paternoster",
+  "rig_type": "abrasion_paternoster",
+
+  "primary_species": [
+    "gummy_shark"
+  ],
+
+  "secondary_species": [
+    "school_shark"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "boat"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "whole_fish",
+    "squid"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Heavy abrasion-resistant gummy shark paternoster rig designed for surf and bottom fishing applications.",
+
+  "bait_size": "medium_large",
+
+  "hook_min": 8,
+  "hook_max": 8,
+  "hook_text": "8/0 Circle Hook",
+
+  "leader": "80lb mono backbone with wire dropper and weaker sinker trace",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway or star sinker attached via weaker sacrificial sinker trace.",
+
+  "guide_url": "/land-based-shark-fishing-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/gummy-shark-wire-slash-mono-paternoster-rigs-6-slash-0-circle-hook-3-pack",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/80%20front%20cover%20actual%20rig-7d9bfdf.jpg",
+
+  "why": "Wire dropper protects against abrasion and teeth while the weaker sinker section helps preserve the main rig if the sinker snags.",
+
+  "priority": 153
+},
   {
-    "name": "Gummy Shark Wire / Mono Paternoster Rigs – 8/0 Circle Hook (3 Pack)",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/gummy-shark-wire-slash-mono-paternoster-rigs-6-slash-0-circle-hook-3-pack",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/80%20front%20cover%20actual%20rig-7d9bfdf.jpg",
-    "rig_type": "Gummy Abrasion Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "boat"
-    ],
-    "species": [
-      "gummy shark"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium–large",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Breakaway or star sinker on weaker sinker trace",
-    "sk": "Breakaway or star sinker on weaker sinker trace",
-    "leader": "80lb mono backbone, wire dropper, weaker sinker trace",
-    "why": "Wire dropper protects against teeth while the weaker sinker section can break away if snagged, keeping the main rig and fish connected.",
-    "w": "Wire dropper protects against teeth while the weaker sinker section can break away if snagged, keeping the main rig and fish connected.",
-    "cap": [
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "sliding_snell_wire_hybrid_7_0_pack",
+  "name": "3x 80lb Wire-to-Mono Sliding Snelled Rig – 2x 7/0 Octopus Circle Hooks",
+  "family": "sliding_snell",
+  "rig_type": "wire_hybrid_sliding_snell",
+
+  "primary_species": [
+    "mulloway",
+    "snapper"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "squid",
+    "live_bait",
+    "whole_fish"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Wire-to-mono sliding snelled rig designed for elongated bait presentation and predator fishing.",
+
+  "bait_size": "medium_large",
+
+  "hook_min": 7,
+  "hook_max": 7,
+  "hook_text": "2x 7/0 Octopus Circle Hooks",
+
+  "leader": "80lb wire-to-mono hybrid",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star sinker or breakaway sinker matched to tidal current strength and surf sweep.",
+
+  "guide_url": "/mulloway-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/80lb-wire-to-mono-sliding-snelled-hook-rig-2-x-octopus-circle-7-slash-0-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/3%20pack.png",
+
+  "why": "Wire-to-mono sliding snell presentation improves bait alignment while adding abrasion resistance and bite protection for predators.",
+
+  "priority": 149
+},
   {
-    "name": "3x 80lb Wire-to-Mono Sliding Snelled Rig – 2x 7/0 Octopus Circle Hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/80lb-wire-to-mono-sliding-snelled-hook-rig-2-x-octopus-circle-7-slash-0-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/3%20pack.png",
-    "rig_type": "Sliding Snell Wire Hybrid",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "mulloway",
-      "snapper",
-      "tailor",
-      "salmon"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait",
-      "squid",
-      "livebait",
-      "live bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker; breakaway if sweep increases",
-    "sk": "Star sinker; breakaway if sweep increases",
-    "leader": "80lb wire",
-    "why": "Wire-to-mono sliding snell adds bite protection while keeping long bait alignment.",
-    "w": "Wire-to-mono sliding snell adds bite protection while keeping long bait alignment.",
-    "cap": [
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "sliding_snell_40lb_3_0_pack",
+  "name": "4x 40lb Sliding Snelled Double Hook Rigs – 2x 3/0 Octopus Circle Hooks with Luminous Beads",
+  "family": "sliding_snell",
+  "rig_type": "sliding_snell_rig",
+
+  "primary_species": [
+    "mulloway",
+    "snapper"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "estuary",
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "squid",
+    "live_bait",
+    "whole_fish"
+  ],
+
+  "current": [
+    "light",
+    "moderate"
+  ],
+
+  "distance": [
+    "short",
+    "medium"
+  ],
+
+  "usage": "Light sliding snelled rig designed for natural bait presentation in estuary and surf fishing.",
+
+  "bait_size": "medium",
+
+  "hook_min": 3,
+  "hook_max": 3,
+  "hook_text": "2x 3/0 Octopus Circle Hooks",
+
+  "leader": "40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star sinker or breakaway sinker matched to tidal current strength and sweep.",
+
+  "guide_url": "/mulloway-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-everyday-hand-twisted-paternoster-rig-2x-1-slash-0-hooks-and-green-luminous-beads",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack%20photo%2040lb.png",
+
+  "why": "Sliding snelled hook layout keeps longer baits natural while improving hook exposure for mulloway and snapper.",
+
+  "priority": 148
+},
   {
-    "name": "4x 40lb Sliding Snelled Double Hook Rigs – 2x 3/0 Octopus Circle Hooks with Luminous Beads",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-everyday-hand-twisted-paternoster-rig-2x-1-slash-0-hooks-and-green-luminous-beads",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack%20photo%2040lb.png",
-    "rig_type": "Sliding Snell Rig",
-    "usage": "cast",
-    "environment": [
-      "estuary",
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "mulloway",
-      "snapper",
-      "tailor",
-      "salmon"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait",
-      "squid",
-      "livebait",
-      "live bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "short",
-    "distance": "short",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker; breakaway if sweep increases",
-    "sk": "Star sinker; breakaway if sweep increases",
-    "leader": "40lb mono",
-    "why": "Lighter estuary sliding snell keeps long baits natural while still improving hook-up rates on snapper and mulloway.",
-    "w": "Lighter estuary sliding snell keeps long baits natural while still improving hook-up rates on snapper and mulloway.",
-    "cap": [
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "sliding_snell_estuary_40lb_6_0_pack",
+  "name": "4X ESTUARY SNAPPER & MULLOWAY RIGS – 40LB – 2 × 6/0 CIRCLE HOOKS – SLIDING SNELL",
+  "family": "sliding_snell",
+  "rig_type": "sliding_snell_rig",
+
+  "primary_species": [
+    "mulloway",
+    "snapper"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "estuary",
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "squid",
+    "live_bait",
+    "whole_fish"
+  ],
+
+  "current": [
+    "light",
+    "moderate"
+  ],
+
+  "distance": [
+    "short",
+    "medium"
+  ],
+
+  "usage": "Sliding snelled estuary rig designed for natural bait presentation targeting mulloway and snapper.",
+
+  "bait_size": "medium",
+
+  "hook_min": 6,
+  "hook_max": 6,
+  "hook_text": "2 × 6/0 Circle Hooks",
+
+  "leader": "40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star sinker or breakaway sinker matched to tidal current strength and sweep.",
+
+  "guide_url": "/mulloway-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/xn--4x-estuary-snapper--mulloway-rigs--40lb--2--60-circle-hooks--sliding-snell-xrf29743dgaw",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack-e81a447.png",
+
+  "why": "Sliding snelled hook layout keeps larger baits natural while improving hook-up rates on estuary mulloway and snapper.",
+
+  "priority": 168
+},
+ {
+  "id": "sliding_snell_60lb_6_0_priority",
+  "name": "4 × Hand Tied 60lb Snapper & Mulloway Fishing Rigs – Twin 6/0 Octopus Circle Hooks",
+  "family": "sliding_snell",
+  "rig_type": "sliding_snell_rig",
+
+  "primary_species": [
+    "mulloway"
+  ],
+
+  "secondary_species": [
+    "snapper",
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "estuary"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "squid",
+    "live_bait",
+    "whole_fish"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Sliding snelled surf rig designed specifically for beach and surf mulloway fishing.",
+
+  "bait_size": "medium_large",
+
+  "hook_min": 6,
+  "hook_max": 6,
+  "hook_text": "Twin 6/0 Octopus Circle Hooks",
+
+  "leader": "60lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star or breakaway sinker matched to tidal current strength and surf sweep.",
+
+  "guide_url": "/mulloway-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4-x-hand-tied-60lb-snapper-mulloway-fishing-rigs-2-x-octopus-circle-60-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack-4ee0abf.png",
+
+  "why": "Movable sliding snell presentation keeps larger baits natural while improving hook-up rates on mulloway and surf predators.",
+
+  "priority": 170
+},
   {
-    "name": "4X ESTUARY SNAPPER & MULLOWAY RIGS – 40LB – 2 × 6/0 CIRCLE HOOKS – SLIDING SNELL",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/xn--4x-estuary-snapper--mulloway-rigs--40lb--2--60-circle-hooks--sliding-snell-xrf29743dgaw",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack-e81a447.png",
-    "rig_type": "Sliding Snell Rig",
-    "usage": "cast",
-    "environment": [
-      "estuary",
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "mulloway",
-      "snapper",
-      "tailor",
-      "salmon"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait",
-      "squid",
-      "livebait",
-      "live bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "short",
-    "distance": "short",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker; breakaway if sweep increases",
-    "sk": "Star sinker; breakaway if sweep increases",
-    "leader": "40lb mono",
-    "why": "Lighter estuary sliding snell keeps long baits natural while still improving hook-up rates on snapper and mulloway.",
-    "w": "Lighter estuary sliding snell keeps long baits natural while still improving hook-up rates on snapper and mulloway.",
-    "cap": [
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "4 × Hand Tied 60lb Snapper & Mulloway Fishing Rigs – Twin 6/0 Octopus Circle Hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4-x-hand-tied-60lb-snapper-mulloway-fishing-rigs-2-x-octopus-circle-60-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack-4ee0abf.png",
-    "rig_type": "Sliding Snell Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "estuary"
-    ],
-    "species": [
-      "mulloway",
-      "snapper",
-      "tailor",
-      "salmon"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait",
-      "squid",
-      "livebait",
-      "live bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker; breakaway if sweep increases",
-    "sk": "Star sinker; breakaway if sweep increases",
-    "leader": "40–80lb mono",
-    "why": "Movable top snell adjusts to bait length and improves hook-up rate on head and tail striking fish.",
-    "w": "Movable top snell adjusts to bait length and improves hook-up rate on head and tail striking fish.",
-    "cap": [
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "4x 60lb Sliding Snelled Double Hook Rig – 2x 5/0 Octopus Circle Hooks with Luminous Beads",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-sliding-snelled-hook-rigs-2x-circle-3-slash-0-hooks-and-lumo-beads-4x-40l-sld-snl1",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack%2060lb%20photo.png",
-    "rig_type": "Sliding Snell Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "estuary"
-    ],
-    "species": [
-      "mulloway",
-      "snapper",
-      "tailor",
-      "salmon"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait",
-      "squid",
-      "livebait",
-      "live bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker; breakaway if sweep increases",
-    "sk": "Star sinker; breakaway if sweep increases",
-    "leader": "40–80lb mono",
-    "why": "Movable top snell adjusts to bait length and improves hook-up rate on head and tail striking fish.",
-    "w": "Movable top snell adjusts to bait length and improves hook-up rate on head and tail striking fish.",
-    "cap": [
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "4 × “Half a Pilly” Rigs – Designed for Half Pilchards & Slab Baits",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-half-a-pilly-rigs-the-perfect-rig-for-half-pilchards--slab-baits",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack-22f9dd3.jpg",
-    "rig_type": "Half-Pilly Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "clean sand",
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "40–60lb mono",
-    "why": "Twin small-hook spacing is built specifically for half pilchards and compact slab baits.",
-    "w": "Twin small-hook spacing is built specifically for half pilchards and compact slab baits.",
-    "cap": [],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "4x 80lb Sliding Snelled Double Hook Rig – 2x Octopus Circle 8/0 Hooks & Luminous Beads",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-60lb-sliding-snelled-hook-rig-2x-octopus-circle-5-slash-0-hooks-and-luminous-beads-4x-60l-sld-snl1",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack%2080lb.png",
-    "rig_type": "Sliding Snell Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "estuary"
-    ],
-    "species": [
-      "mulloway",
-      "snapper",
-      "tailor",
-      "salmon"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait",
-      "squid",
-      "livebait",
-      "live bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker; breakaway if sweep increases",
-    "sk": "Star sinker; breakaway if sweep increases",
-    "leader": "40–80lb mono",
-    "why": "Movable top snell adjusts to bait length and improves hook-up rate on head and tail striking fish.",
-    "w": "Movable top snell adjusts to bait length and improves hook-up rate on head and tail striking fish.",
-    "cap": [
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "sliding_snell_80lb_8_0_pack",
+  "name": "4x 80lb Sliding Snelled Double Hook Rig – 2x Octopus Circle 8/0 Hooks & Luminous Beads",
+  "family": "sliding_snell",
+  "rig_type": "sliding_snell_rig",
+
+  "primary_species": [
+    "mulloway",
+    "snapper"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "squid",
+    "live_bait",
+    "whole_fish"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium",
+    "long"
+  ],
+
+  "usage": "Heavy sliding snelled surf rig designed for larger baits, stronger current and bigger predators.",
+
+  "bait_size": "large",
+
+  "hook_min": 8,
+  "hook_max": 8,
+  "hook_text": "2x 8/0 Octopus Circle Hooks",
+
+  "leader": "80lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star or breakaway sinker matched to tidal current strength and surf sweep.",
+
+  "guide_url": "/mulloway-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-60lb-sliding-snelled-hook-rig-2x-octopus-circle-5-slash-0-hooks-and-luminous-beads-4x-60l-sld-snl1",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack%2080lb.png",
+
+  "why": "Heavy sliding snelled presentation keeps large baits aligned naturally while improving hook-up rates on larger mulloway and surf predators.",
+
+  "priority": 160
+},
   {
     "name": "4x 40lb Mono Flathead Fish Finder Rigs,2 x 1/0 hooks,Sliding weight clip & beads",
     "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-mono-flathead-fish-finder-rigs2-x-10-hookssliding-weight-clip-beads",
