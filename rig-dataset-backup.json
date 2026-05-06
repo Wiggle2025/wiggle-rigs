@@ -936,152 +936,175 @@
   "priority": 150
 },
   {
-    "name": "400lb Stainless Steel Coated Wire Shark Rig – 2.5m Trace – 14/0 Circle Hook & Bite Zone",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/480lb-stainless-steel-wire-3m-shark-trace-with-bite-zone-20-slash-0-circle-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/actual%20rig-741cc08.png",
-    "rig_type": "Heavy Shark Bite-Zone Trace",
-    "usage": "deploy",
-    "environment": [
-      "beach",
-      "surf",
-      "boat",
-      "reef"
-    ],
-    "species": [
-      "large sharks",
-      "gummy shark"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "deploy",
-    "distance": "deploy",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "reef edge"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "110–650lb wire",
-    "why": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "w": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "cap": [
-      "large bait deployment",
-      "reef structure control",
-      "bite protection"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "400lb Stainless Steel Coated Wire Shark Rig – 2.5m Trace – 16/0 Circle Hook & Bite Zone",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/300lb-stainless-steel-blue-coated-2m-shark-rig-and-bite-zone-16-slash-0-circle-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/FRONT%20RIG.png",
-    "rig_type": "Heavy Shark Bite-Zone Trace",
-    "usage": "deploy",
-    "environment": [
-      "beach",
-      "surf",
-      "boat",
-      "reef"
-    ],
-    "species": [
-      "large sharks",
-      "gummy shark"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "deploy",
-    "distance": "deploy",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "reef edge"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "110–650lb wire",
-    "why": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "w": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "cap": [
-      "large bait deployment",
-      "reef structure control",
-      "bite protection"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "Apex Pro Shark Rig 20/0 Circle Hook 650lb Wire 10m Leader Drone Shark Rig",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/apex-pro-shark-rig-200-circle-hook-650lb-wire-10m-leader-drone-shark-rig",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/rig%20diagram%20apex%20shark.png",
-    "rig_type": "Drone Shark Rig",
-    "usage": "deploy",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "large sharks"
-    ],
-    "bait": [
-      "livebait",
-      "live bait",
-      "large bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "deploy",
-    "distance": "deploy",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker with sacrificial weak link",
-    "sk": "Breakaway sinker with sacrificial weak link",
-    "leader": "110–650lb wire system",
-    "why": "Slide system deploys large baits beyond casting range while the weak sinker link helps protect the rig if the weight snags.",
-    "w": "Slide system deploys large baits beyond casting range while the weak sinker link helps protect the rig if the weight snags.",
-    "cap": [
-      "long casting",
-      "large bait deployment",
-      "bite protection",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "large_shark_trace_400lb_14_0",
+  "name": "400lb Stainless Steel Coated Wire Shark Rig – 2.5m Trace – 14/0 Circle Hook & Bite Zone",
+  "family": "large_shark_trace",
+  "rig_type": "heavy_shark_trace",
+
+  "primary_species": [
+    "large_sharks"
+  ],
+
+  "secondary_species": [
+    "gummy_shark"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "boat",
+    "reef"
+  ],
+
+  "bait": [
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "deploy"
+  ],
+
+  "usage": "Heavy-duty shark trace designed for large bait deployment and bite protection.",
+
+  "bait_size": "large",
+
+  "hook_min": 14,
+  "hook_max": 14,
+  "hook_text": "14/0 Circle Hook",
+
+  "leader": "400lb coated wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Heavy breakaway sinker recommended for shark fishing.",
+
+  "guide_url": "/land-based-shark-fishing-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/480lb-stainless-steel-wire-3m-shark-trace-with-bite-zone-20-slash-0-circle-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/actual%20rig-741cc08.png",
+
+  "why": "Heavy wire bite-zone trace improves abrasion resistance against large sharks and reef predators.",
+
+  "priority": 147
+},
+ {
+  "id": "large_shark_trace_400lb_16_0",
+  "name": "400lb Stainless Steel Coated Wire Shark Rig – 2.5m Trace – 16/0 Circle Hook & Bite Zone",
+  "family": "large_shark_trace",
+  "rig_type": "heavy_shark_trace",
+
+  "primary_species": [
+    "large_sharks"
+  ],
+
+  "secondary_species": [
+    "gummy_shark"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "boat",
+    "reef"
+  ],
+
+  "bait": [
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "deploy"
+  ],
+
+  "usage": "Heavy shark trace system for large bait deployment and offshore predator fishing.",
+
+  "bait_size": "large",
+
+  "hook_min": 16,
+  "hook_max": 16,
+  "hook_text": "16/0 Circle Hook",
+
+  "leader": "400lb coated wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Heavy breakaway sinker recommended for deployment fishing.",
+
+  "guide_url": "/land-based-shark-fishing-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/300lb-stainless-steel-blue-coated-2m-shark-rig-and-bite-zone-16-slash-0-circle-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/FRONT%20RIG.png",
+
+  "why": "Heavy coated wire trace helps resist bite-offs and abrasion from large sharks.",
+
+  "priority": 148
+},
+ {
+  "id": "apex_shark_system_20_0",
+  "name": "Apex Pro Shark Rig 20/0 Circle Hook 650lb Wire 10m Leader Drone Shark Rig",
+  "family": "apex_shark_system",
+  "rig_type": "drone_shark_rig",
+
+  "primary_species": [
+    "large_sharks"
+  ],
+
+  "secondary_species": [],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "live_bait",
+    "large_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "deploy"
+  ],
+
+  "usage": "Heavy-duty drone or kayak deployment shark system.",
+
+  "bait_size": "large",
+
+  "hook_min": 20,
+  "hook_max": 20,
+  "hook_text": "20/0 Circle Hook",
+
+  "leader": "600lb mono + 650lb wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Heavy breakaway sinker with sacrificial weak link recommended.",
+
+  "guide_url": "/land-based-shark-fishing-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/apex-pro-shark-rig-200-circle-hook-650lb-wire-10m-leader-drone-shark-rig",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/rig%20diagram%20apex%20shark.png",
+
+  "why": "Heavy deployment shark system designed for sending large baits beyond casting range while protecting the rig with a sacrificial sinker weak link.",
+
+  "priority": 150
+},
   {
     "name": "16/0 Heavy Duty Slide Bait Shark Rig 400lb Trace Stainless Hook Land Based",
     "url": "https://wiggleyawormrigs.com/online-shop/ols/products/160-heavy-duty-slide-bait-shark-rig-400lb-trace-stainless-hook-land-based",
