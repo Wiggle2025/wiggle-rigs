@@ -2088,417 +2088,482 @@
   "priority": 135
 },
   {
-    "name": "4x Hand Tied Aussie Salmon 40lb Twisted Paternosta rig, 2 x Heavy Duty 2/0 hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-aussie-salmon-40lb-twisted-paternosta-rig-2-x-heavy-duty-20-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20x%20salmon%20multi%20pack.png",
-    "rig_type": "Twisted Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "salmon"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "Match rig rating",
-    "why": "General-purpose rig suited to mixed surf conditions.",
-    "w": "General-purpose rig suited to mixed surf conditions.",
-    "cap": [],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "surf_paternoster_salmon_40lb_2_0_pack",
+  "name": "4x Hand Tied Aussie Salmon 40lb Twisted Paternosta Rig – 2 x Heavy Duty 2/0 Hooks",
+  "family": "surf_paternoster",
+  "rig_type": "twisted_paternoster",
+
+  "primary_species": [
+    "australian_salmon"
+  ],
+
+  "secondary_species": [
+    "tailor"
+  ],
+
+  "environment": [
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "pilchard",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Surf paternoster rig designed for Australian salmon and active beach conditions.",
+
+  "bait_size": "medium",
+
+  "hook_min": 2,
+  "hook_max": 2,
+  "hook_text": "2 x Heavy Duty 2/0 Hooks",
+
+  "leader": "40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star or grapnel sinker matched to tidal current strength and surf conditions.",
+
+  "guide_url": "/australian-salmon-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-aussie-salmon-40lb-twisted-paternosta-rig-2-x-heavy-duty-20-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20x%20salmon%20multi%20pack.png",
+
+  "why": "Twisted paternoster layout helps present baits cleanly in active surf while handling aggressive salmon strikes.",
+
+  "priority": 140
+},
   {
-    "name": "3x Snapper Flasher Double Paternoster Reef Rigs – 10/0 Circle Hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-snapper-flasher-bottom-bashing-double-paternoster-reef-rigs-100-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Modified%20group%20snapper%20rigs.png",
-    "rig_type": "Flasher Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "boat"
-    ],
-    "species": [
-      "snapper",
-      "tailor",
-      "salmon"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "60lb mono",
-    "why": "Flasher material adds visual trigger while the paternoster layout keeps baits stable in moving water.",
-    "w": "Flasher material adds visual trigger while the paternoster layout keeps baits stable in moving water.",
-    "cap": [
-      "visual strike trigger",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": true,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "reef_paternoster_snapper_flasher_10_0_pack",
+  "name": "3x Snapper Flasher Double Paternoster Reef Rigs – 10/0 Circle Hooks",
+  "family": "reef_paternoster",
+  "rig_type": "flasher_paternoster",
+
+  "primary_species": [
+    "snapper"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "boat",
+    "reef",
+    "surf"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Heavy-duty flasher paternoster rig for reef and bottom-bashing fishing applications.",
+
+  "bait_size": "medium",
+
+  "hook_min": 10,
+  "hook_max": 10,
+  "hook_text": "10/0 Circle Hooks",
+
+  "leader": "60lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star or reef sinker matched to tidal current strength and depth.",
+
+  "guide_url": "/snapper-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-snapper-flasher-bottom-bashing-double-paternoster-reef-rigs-100-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Modified%20group%20snapper%20rigs.png",
+
+  "why": "Flasher material adds visual strike attraction while the paternoster layout keeps baits stable in moving reef water.",
+
+  "priority": 142
+},
+ {
+  "id": "reef_paternoster_kingfish_snapper_6_0_pack",
+  "name": "3x 60lb Kingfish & Snapper Hand Twisted Paternoster Flasher Rigs – Twin 6/0 Hooks",
+  "family": "reef_paternoster",
+  "rig_type": "flasher_paternoster",
+
+  "primary_species": [
+    "snapper",
+    "kingfish"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "boat",
+    "reef",
+    "surf"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Flasher paternoster rig designed for reef, snapper and kingfish fishing applications.",
+
+  "bait_size": "medium",
+
+  "hook_min": 6,
+  "hook_max": 6,
+  "hook_text": "Twin 6/0 Hooks",
+
+  "leader": "60lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star or reef sinker matched to tidal current strength and fishing depth.",
+
+  "guide_url": "/snapper-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-60lb-kingfish-snapper-hand-twisted-paternoster-flasher-rigs-2x-60-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover%20x3.jpg",
+
+  "why": "Flasher attraction combined with a twisted paternoster layout helps keep baits visible and stable in moving reef water.",
+
+  "priority": 141
+},
+ {
+  "id": "reef_paternoster_snapper_60lb_4_0_pack",
+  "name": "4x Hand Tied Snapper & Reef 60lb Twisted Dropper Rigs – 2 x Heavy Duty 4/0 Hooks",
+  "family": "reef_paternoster",
+  "rig_type": "twisted_paternoster",
+
+  "primary_species": [
+    "snapper"
+  ],
+
+  "secondary_species": [
+    "reef_species"
+  ],
+
+  "environment": [
+    "reef",
+    "boat",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "pilchard"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Heavy-duty twisted dropper rig designed for snapper and reef fishing applications.",
+
+  "bait_size": "medium",
+
+  "hook_min": 4,
+  "hook_max": 4,
+  "hook_text": "2 x Heavy Duty 4/0 Hooks",
+
+  "leader": "60lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star or reef sinker matched to tidal current strength and depth.",
+
+  "guide_url": "/snapper-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-snapper-reef-60lb-twisted-dropper-rigs-2-x-heavy-duty-40-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/multi%20pack%20reef.png",
+
+  "why": "Twisted dropper layout helps keep baits separated and stable while targeting snapper and reef species in moving water.",
+
+  "priority": 140
+},
+ {
+  "id": "reef_paternoster_hula_skirt_6_0",
+  "name": "Hula Skirt 60lb Twisted Paternoster Float Rig – Twin 6/0 Hooks – Hand Tied",
+  "family": "reef_paternoster",
+  "rig_type": "float_paternoster",
+
+  "primary_species": [
+    "snapper",
+    "mulloway"
+  ],
+
+  "secondary_species": [
+    "kingfish",
+    "reef_species"
+  ],
+
+  "environment": [
+    "reef",
+    "boat",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "pilchard",
+    "whole_fish"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Float-assisted reef paternoster rig designed for snapper, mulloway and reef-edge predators.",
+
+  "bait_size": "medium",
+
+  "hook_min": 6,
+  "hook_max": 6,
+  "hook_text": "Twin 6/0 Hooks",
+
+  "leader": "60–80lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star or breakaway sinker matched to tidal current strength and terrain.",
+
+  "guide_url": "/snapper-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/hand-tied-hula-skirt-60lb-twisted-paternoster-float-rig-2x-60-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/types.png",
+
+  "why": "Float and hula skirt presentation adds lift, movement and visual attraction while helping keep baits visible around reef structure.",
+
+  "priority": 143
+},
   {
-    "name": "3x 60lb Kingfish & Snapper Hand Twisted Paternoster Flasher Rigs – Twin 6/0 Hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-60lb-kingfish-snapper-hand-twisted-paternoster-flasher-rigs-2x-60-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover%20x3.jpg",
-    "rig_type": "Flasher Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "boat"
-    ],
-    "species": [
-      "snapper",
-      "kingfish",
-      "tailor",
-      "salmon"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "60lb mono",
-    "why": "Flasher material adds visual trigger while the paternoster layout keeps baits stable in moving water.",
-    "w": "Flasher material adds visual trigger while the paternoster layout keeps baits stable in moving water.",
-    "cap": [
-      "visual strike trigger",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": true,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+   {
+  "id": "whiting_paternoster_pompano_20lb_1_0_pack",
+  "name": "3 × Pompano Paternoster Float Rigs – 20lb – Twin 1/0 Hooks – Complete & Ready to Fish",
+  "family": "whiting_paternoster",
+  "rig_type": "pompano_float_paternoster",
+
+  "primary_species": [
+    "whiting"
+  ],
+
+  "secondary_species": [
+    "bream",
+    "dart"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "estuary"
+  ],
+
+  "bait": [
+    "worm",
+    "pipi",
+    "prawn"
+  ],
+
+  "current": [
+    "light",
+    "moderate"
+  ],
+
+  "distance": [
+    "short"
+  ],
+
+  "usage": "Float-assisted whiting paternoster rig for beach and estuary fishing.",
+
+  "bait_size": "small",
+
+  "hook_min": 1,
+  "hook_max": 1,
+  "hook_text": "Twin 1/0 Hooks",
+
+  "leader": "20–40lb mono",
+
+  "sinker_included": true,
+  "sinker_recommendation": "",
+
+  "guide_url": "/whiting-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-pompano-paternoster-float-rigs-inc-luminous-beads-sinker-ready-to-fish-2x-10-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/3%20pack%20of%20orange%20and%20yellow.png",
+
+  "why": "Pompano floats help lift baits above the sand while adding movement and visual attraction in active surf conditions.",
+
+  "priority": 146
+},
   {
-    "name": "4x Hand Tied Snapper & Reef 60lb Twisted Dropper rigs, 2 x Heavy Duty 4/0 hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-snapper-reef-60lb-twisted-dropper-rigs-2-x-heavy-duty-40-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/multi%20pack%20reef.png",
-    "rig_type": "Twisted Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "snapper"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "Match rig rating",
-    "why": "General-purpose rig suited to mixed surf conditions.",
-    "w": "General-purpose rig suited to mixed surf conditions.",
-    "cap": [],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "Hula Skirt 60lb Twisted Paternoster Float Rig – Twin 6/0 Hooks – Hand Tied",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/hand-tied-hula-skirt-60lb-twisted-paternoster-float-rig-2x-60-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/types.png",
-    "rig_type": "Hula Skirt Float Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "boat",
-      "reef"
-    ],
-    "species": [
-      "snapper",
-      "mulloway",
-      "kingfish"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "reef edge"
-    ],
-    "sinker": "Star or breakaway sinker",
-    "sk": "Star or breakaway sinker",
-    "leader": "60–80lb mono",
-    "why": "Float and skirt add lift, movement and visual attraction for snapper and reef-edge predators.",
-    "w": "Float and skirt add lift, movement and visual attraction for snapper and reef-edge predators.",
-    "cap": [
-      "bait lift",
-      "visual strike trigger",
-      "reef structure control",
-      "snag reduction"
-    ],
-    "float_support": true,
-    "reaction_trigger": true,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "4x Hand Tied Heavy Duty Offshore/Reef 80lb Twisted Paternosta rigs, 2x 8/0 hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-heavy-duty-offshorereef-80lb-twisted-paternosta-rigs-2x-80-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/offshore%20rigs%20multi%20pack.png",
-    "rig_type": "Offshore Heavy Paternoster",
-    "usage": "cast",
-    "environment": [
-      "boat",
-      "reef"
-    ],
-    "species": [
-      "snapper",
-      "reef species"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait",
-      "squid"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "short",
-    "distance": "short",
-    "bait_size": "large",
-    "terrain": [
-      "reef edge"
-    ],
-    "sinker": "Tear-drop or snapper lead",
-    "sk": "Tear-drop or snapper lead",
-    "leader": "80–100lb mono",
-    "why": "Heavy dropper layout controls baits vertically around reef while handling abrasion and larger fish.",
-    "w": "Heavy dropper layout controls baits vertically around reef while handling abrasion and larger fish.",
-    "cap": [
-      "reef structure control",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "3 × Pompano Paternoster Float Rigs – 20lb – Twin 1/0 Hooks – Complete & Ready to Fish",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-pompano-paternoster-float-rigs-inc-luminous-beads-sinker-ready-to-fish-2x-10-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/3%20pack%20of%20orange%20and%20yellow.png",
-    "rig_type": "Pompano Float Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "estuary"
-    ],
-    "species": [
-      "bream",
-      "whiting",
-      "dart"
-    ],
-    "bait": [
-      "worms",
-      "worm",
-      "pipi"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "short",
-    "distance": "short",
-    "bait_size": "small",
-    "terrain": [
-      "clean sand",
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "20–40lb mono",
-    "why": "Candy floats lift bait away from crabs and add a visual attractant in moving surf.",
-    "w": "Candy floats lift bait away from crabs and add a visual attractant in moving surf.",
-    "cap": [
-      "bait lift",
-      "visual strike trigger",
-      "snag reduction"
-    ],
-    "float_support": true,
-    "reaction_trigger": true,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "3x Pompano Paternoster Float rigs 2x 2/0 circle hooks complete ready to fish",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-pompano-paternoster-float-rigs-inc-luminous-beads-and-sinker-ready-to-fish-2x-1-slash-0-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/3%20pack%20green%20and%20yelow.png",
-    "rig_type": "Pompano Float Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "estuary"
-    ],
-    "species": [
-      "bream",
-      "whiting",
-      "dart"
-    ],
-    "bait": [
-      "worms",
-      "worm",
-      "pipi"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "short",
-    "distance": "short",
-    "bait_size": "small",
-    "terrain": [
-      "clean sand",
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "20–40lb mono",
-    "why": "Candy floats lift bait away from crabs and add a visual attractant in moving surf.",
-    "w": "Candy floats lift bait away from crabs and add a visual attractant in moving surf.",
-    "cap": [
-      "bait lift",
-      "visual strike trigger",
-      "snag reduction"
-    ],
-    "float_support": true,
-    "reaction_trigger": true,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "4 × Hand Tied Whiting Double Paternoster Rigs – Size 4 Worm Hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-whiting-double-paternosta-rigs-no-4-worm-hooks-lumo-beads-sinker",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/whiting%20multi%20pack.png",
-    "rig_type": "Whiting Double Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "estuary"
-    ],
-    "species": [
-      "whiting",
-      "bream",
-      "dart"
-    ],
-    "bait": [
-      "worms",
-      "worm"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "short",
-    "distance": "short",
-    "bait_size": "small",
-    "terrain": [
-      "clean sand"
-    ],
-    "sinker": "Small star sinker or ball sinker",
-    "sk": "Small star sinker or ball sinker",
-    "leader": "20lb mono",
-    "why": "Elevated worm-hook presentation keeps small baits in the feeding zone and helps reduce crab interference.",
-    "w": "Elevated worm-hook presentation keeps small baits in the feeding zone and helps reduce crab interference.",
-    "cap": [
-      "bait lift"
-    ],
-    "float_support": true,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "whiting_paternoster_pompano_20lb_2_0_pack",
+  "name": "3x Pompano Paternoster Float Rigs – 2x 2/0 Circle Hooks – Complete Ready to Fish",
+  "family": "whiting_paternoster",
+  "rig_type": "pompano_float_paternoster",
+
+  "primary_species": [
+    "whiting"
+  ],
+
+  "secondary_species": [
+    "bream",
+    "dart"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "estuary"
+  ],
+
+  "bait": [
+    "worm",
+    "pipi",
+    "prawn"
+  ],
+
+  "current": [
+    "light",
+    "moderate"
+  ],
+
+  "distance": [
+    "short"
+  ],
+
+  "usage": "Float-assisted paternoster rig for beach and estuary whiting fishing.",
+
+  "bait_size": "small",
+
+  "hook_min": 2,
+  "hook_max": 2,
+  "hook_text": "2x 2/0 Circle Hooks",
+
+  "leader": "20–40lb mono",
+
+  "sinker_included": true,
+  "sinker_recommendation": "",
+
+  "guide_url": "/whiting-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-pompano-paternoster-float-rigs-inc-luminous-beads-and-sinker-ready-to-fish-2x-1-slash-0-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/3%20pack%20green%20and%20yelow.png",
+
+  "why": "Pompano floats help lift baits above the sand while adding movement and visibility in active surf conditions.",
+
+  "priority": 145
+},
+ {
+  "id": "whiting_paternoster_20lb_size4_priority",
+  "name": "4 × Hand Tied Whiting Double Paternoster Rigs – Size 4 Worm Hooks",
+  "family": "whiting_paternoster",
+  "rig_type": "double_paternoster",
+
+  "primary_species": [
+    "whiting"
+  ],
+
+  "secondary_species": [
+    "bream",
+    "dart"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "estuary"
+  ],
+
+  "bait": [
+    "worm",
+    "pipi",
+    "prawn"
+  ],
+
+  "current": [
+    "light",
+    "moderate"
+  ],
+
+  "distance": [
+    "short"
+  ],
+
+  "usage": "Specialised whiting paternoster rig for beach gutters, estuary edges and clean sand fishing.",
+
+  "bait_size": "small",
+
+  "hook_min": 4,
+  "hook_max": 4,
+  "hook_text": "Size 4 Worm Hooks",
+
+  "leader": "20lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Small ball or star sinker matched to tidal current strength.",
+
+  "guide_url": "/whiting-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-whiting-double-paternosta-rigs-no-4-worm-hooks-lumo-beads-sinker",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/whiting%20multi%20pack.png",
+
+  "why": "Fine worm-hook presentation keeps smaller baits naturally suspended in the feeding zone for whiting while reducing crab interference.",
+
+  "priority": 160
+},
   {
     "name": "Yellow 2nd Generation Popper & Ganged hook twisted paternoster, 4/0 hooks",
     "url": "https://wiggleyawormrigs.com/online-shop/ols/products/yellow-2nd-generation-popper-ganged-hook-twisted-paternoster-40-hooks",
