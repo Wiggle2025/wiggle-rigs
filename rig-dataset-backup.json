@@ -1106,101 +1106,117 @@
   "priority": 150
 },
   {
-    "name": "16/0 Heavy Duty Slide Bait Shark Rig 400lb Trace Stainless Hook Land Based",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/160-heavy-duty-slide-bait-shark-rig-400lb-trace-stainless-hook-land-based",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/full%20rig.jpg",
-    "rig_type": "Slide Bait Rig",
-    "usage": "deploy",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "large sharks"
-    ],
-    "bait": [
-      "livebait",
-      "live bait",
-      "large bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "deploy",
-    "distance": "deploy",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker with sacrificial weak link",
-    "sk": "Breakaway sinker with sacrificial weak link",
-    "leader": "110–650lb wire system",
-    "why": "Slide system deploys large baits beyond casting range while the weak sinker link helps protect the rig if the weight snags.",
-    "w": "Slide system deploys large baits beyond casting range while the weak sinker link helps protect the rig if the weight snags.",
-    "cap": [
-      "long casting",
-      "large bait deployment",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "400lb Stainless Steel Coated Wire Shark Rig – 2.5m Trace, Bite Zone & 20/0 Circle Hook",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/400lb-stainless-steel-coated-wire-25m-shark-rig-bite-zone-200-circle-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/actual%20rig%20front%20cover.png",
-    "rig_type": "Heavy Shark Bite-Zone Trace",
-    "usage": "deploy",
-    "environment": [
-      "beach",
-      "surf",
-      "boat",
-      "reef"
-    ],
-    "species": [
-      "large sharks",
-      "gummy shark"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "deploy",
-    "distance": "deploy",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "reef edge"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "110–650lb wire",
-    "why": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "w": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "cap": [
-      "large bait deployment",
-      "reef structure control",
-      "bite protection"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "slide_bait_400lb_16_0",
+  "name": "16/0 Heavy Duty Slide Bait Shark Rig 400lb Trace Stainless Hook Land Based",
+  "family": "slide_bait",
+  "rig_type": "slide_bait_rig",
+
+  "primary_species": [
+    "large_sharks"
+  ],
+
+  "secondary_species": [],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "live_bait",
+    "large_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "deploy"
+  ],
+
+  "usage": "Heavy-duty slide bait shark rig for land-based deployment fishing.",
+
+  "bait_size": "large",
+
+  "hook_min": 16,
+  "hook_max": 16,
+  "hook_text": "16/0 Stainless Hook",
+
+  "leader": "400lb coated wire system",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker with sacrificial weak link recommended.",
+
+  "guide_url": "/slide-bait-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/160-heavy-duty-slide-bait-shark-rig-400lb-trace-stainless-hook-land-based",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/full%20rig.jpg",
+
+  "why": "Slide bait system allows large shark baits to be deployed beyond casting range while protecting the rig with a sacrificial weak link.",
+
+  "priority": 149
+},
+ {
+  "id": "large_shark_trace_400lb_20_0",
+  "name": "400lb Stainless Steel Coated Wire Shark Rig – 2.5m Trace, Bite Zone & 20/0 Circle Hook",
+  "family": "large_shark_trace",
+  "rig_type": "heavy_shark_trace",
+
+  "primary_species": [
+    "large_sharks"
+  ],
+
+  "secondary_species": [
+    "gummy_shark"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "boat",
+    "reef"
+  ],
+
+  "bait": [
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "deploy"
+  ],
+
+  "usage": "Large shark bite trace for heavy deployment fishing and offshore predators.",
+
+  "bait_size": "large",
+
+  "hook_min": 20,
+  "hook_max": 20,
+  "hook_text": "20/0 Circle Hook",
+
+  "leader": "400lb coated wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Heavy breakaway sinker recommended for shark deployment.",
+
+  "guide_url": "/land-based-shark-fishing-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/400lb-stainless-steel-coated-wire-25m-shark-rig-bite-zone-200-circle-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/actual%20rig%20front%20cover.png",
+
+  "why": "Heavy coated shark trace designed to withstand abrasion and bite pressure from large predators.",
+
+  "priority": 149
+},
   {
     "name": "480lb Stainless Steel Shark Trace – 3m – Bite Zone – 20/0 Circle Hook – Hand Tied",
     "url": "https://wiggleyawormrigs.com/online-shop/ols/products/400lb-stainless-steel-coated-wire-2-dot-5m-shark-rig-and-bite-zone-20-slash-0-circle-hook",
@@ -1252,105 +1268,122 @@
     "source_match_score": 1.0
   },
   {
-    "name": "400lb Stainless Steel Coated Wire 3m Shark rig & Bite Zone, 16/0 circle hook",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/400lb-stainless-steel-coated-wire-3m-shark-rig-bite-zone-160-circle-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/400lb%2016%20hook.png",
-    "rig_type": "Heavy Shark Bite-Zone Trace",
-    "usage": "deploy",
-    "environment": [
-      "beach",
-      "surf",
-      "boat",
-      "reef"
-    ],
-    "species": [
-      "large sharks",
-      "gummy shark"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "deploy",
-    "distance": "deploy",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "reef edge"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "110–650lb wire",
-    "why": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "w": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "cap": [
-      "large bait deployment",
-      "reef structure control",
-      "bite protection"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "4x Hand tied Castable 110lb coated wire Shark rigs, 8/0 octopus circle hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-castable-110lb-coated-wire-shark-rigs-80-octopus-circle-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Multipack%20cover.jpg",
-    "rig_type": "Castable Shark Wire",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "boat",
-      "reef"
-    ],
-    "species": [
-      "large sharks",
-      "gummy shark"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "reef edge"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "110–650lb wire",
-    "why": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "w": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "cap": [
-      "long casting",
-      "reef structure control",
-      "bite protection"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "large_shark_trace_400lb_16_0_long",
+  "name": "400lb Stainless Steel Coated Wire 3m Shark Rig & Bite Zone – 16/0 Circle Hook",
+  "family": "large_shark_trace",
+  "rig_type": "heavy_shark_trace",
+
+  "primary_species": [
+    "large_sharks"
+  ],
+
+  "secondary_species": [
+    "gummy_shark"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "boat",
+    "reef"
+  ],
+
+  "bait": [
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "deploy"
+  ],
+
+  "usage": "Extended shark bite trace for abrasion-heavy deployment fishing.",
+
+  "bait_size": "large",
+
+  "hook_min": 16,
+  "hook_max": 16,
+  "hook_text": "16/0 Circle Hook",
+
+  "leader": "400lb coated wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Heavy breakaway sinker recommended for deployment fishing.",
+
+  "guide_url": "/land-based-shark-fishing-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/400lb-stainless-steel-coated-wire-3m-shark-rig-bite-zone-160-circle-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/400lb%2016%20hook.png",
+
+  "why": "Long heavy wire trace improves protection against abrasion and bite-offs from large sharks.",
+
+  "priority": 148
+},
+ {
+  "id": "castable_shark_110lb_8_0_pack",
+  "name": "4x Hand Tied Castable 110lb Coated Wire Shark Rigs – 8/0 Octopus Circle Hooks",
+  "family": "castable_shark",
+  "rig_type": "castable_shark_rig",
+
+  "primary_species": [
+    "gummy_shark"
+  ],
+
+  "secondary_species": [
+    "large_sharks"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "boat",
+    "reef"
+  ],
+
+  "bait": [
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "medium",
+    "long"
+  ],
+
+  "usage": "Castable shark rig designed for surf and offshore predator fishing.",
+
+  "bait_size": "large",
+
+  "hook_min": 8,
+  "hook_max": 8,
+  "hook_text": "8/0 Octopus Circle Hooks",
+
+  "leader": "110lb coated wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended for surf and rough ground.",
+
+  "guide_url": "/land-based-shark-fishing-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-hand-tied-castable-110lb-coated-wire-shark-rigs-80-octopus-circle-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Multipack%20cover.jpg",
+
+  "why": "Castable coated-wire shark rig helps resist bite-offs while still remaining manageable for surf casting.",
+
+  "priority": 146
+},
   {
     "name": "4 × Gummy Shark 110lb Coated Wire Castable Rigs – 8/0 Circle Hook – Hand Tied",
     "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4-x-hand-tied-castable-110lb-coated-wire-gummy-shark-fishing-rigs-6-slash-0-hook-4-x-hnd-td3",
