@@ -702,200 +702,239 @@
 
   "priority": 144
 },
+  ```json id="04n4d4"
+{
+  "id": "cannonball_long_cast_80lb_6_0",
+  "name": "4x 80lb Cannonball Long Distance Casting Rigs – 6/0 Circle Hook",
+  "family": "cannonball_long_cast",
+  "rig_type": "cannonball_rig",
+
+  "primary_species": [
+    "mulloway",
+    "snapper"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Aerodynamic long-distance surf rig for streamlined bait presentation.",
+
+  "bait_size": "medium",
+
+  "hook_min": 6,
+  "hook_max": 6,
+  "hook_text": "6/0 Circle Hook",
+
+  "leader": "80lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway or star sinker depending on surf sweep.",
+
+  "guide_url": "/cannonball-long-cast-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/toothy-critter-60lb-slash-110lb-long-cast-beach-pulley-rig-4-slash-0-hook-rig-6-tth-crt-60l-1102",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/60%204%20pack%20modified.jpg",
+
+  "why": "Aerodynamic cannonball layout helps cast larger baits further without full pulley complexity.",
+
+  "priority": 141
+},
+{
+  "id": "cannonball_long_cast_80lb_8_0",
+  "name": "4x 80lb Cannonball Long Distance Casting Rigs – 8/0 Circle Hook",
+  "family": "cannonball_long_cast",
+  "rig_type": "cannonball_rig",
+
+  "primary_species": [
+    "mulloway",
+    "snapper"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Heavy-duty aerodynamic surf rig for larger long-distance bait presentations.",
+
+  "bait_size": "medium",
+
+  "hook_min": 8,
+  "hook_max": 8,
+  "hook_text": "8/0 Circle Hook",
+
+  "leader": "80lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway or star sinker recommended depending on surf conditions.",
+
+  "guide_url": "/cannonball-long-cast-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/80lb-cannonball-long-distance-casting-rig-6-slash-0-hook-hand-tied-80l-cnn-lng-dst1",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/80%204%20pack.jpg",
+
+  "why": "Large-hook cannonball layout improves long-distance casting of tough surf baits while keeping the rig streamlined.",
+
+  "priority": 143
+},
+{
+  "id": "long_cast_pulley_60lb_no1_1_0",
+  "name": "60lb/40lb Long Cast Beach Pulley Rig No1 – Twin 1/0 Hooks",
+  "family": "long_cast_pulley",
+  "rig_type": "pulley_rig",
+
+  "primary_species": [
+    "mulloway"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "snapper",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Twin-hook long-distance pulley rig for surf fishing larger natural baits.",
+
+  "bait_size": "medium",
+
+  "hook_min": 1,
+  "hook_max": 1,
+  "hook_text": "Twin 1/0 Hooks",
+
+  "leader": "60lb/40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended in active surf and sweep.",
+
+  "guide_url": "/long-cast-pulley-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-60lb40lb-long-cast-beach-pulley-rig-no1-2x-10-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Front%20cover%20rig%201%20long%20cast-0001.png",
+
+  "why": "Pulley system improves casting distance while helping reduce snag losses after hookup.",
+
+  "priority": 142
+},
   {
-    "name": "4x 80lb Cannonball Long Distance Casting Rigs – 6/0 Circle Hook (Hand Tied)",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/toothy-critter-60lb-slash-110lb-long-cast-beach-pulley-rig-4-slash-0-hook-rig-6-tth-crt-60l-1102",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/60%204%20pack%20modified.jpg",
-    "rig_type": "Cannonball Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "clean sand",
-      "mixed ground"
-    ],
-    "sinker": "Breakaway or star sinker",
-    "sk": "Breakaway or star sinker",
-    "leader": "80lb mono",
-    "why": "Aerodynamic cannonball layout sends tough single-hook baits further in surf without full pulley complexity.",
-    "w": "Aerodynamic cannonball layout sends tough single-hook baits further in surf without full pulley complexity.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "4x 80lb Cannonball Long Distance Casting Rigs – 8/0 Circle Hook (Hand Tied)",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/80lb-cannonball-long-distance-casting-rig-6-slash-0-hook-hand-tied-80l-cnn-lng-dst1",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/80%204%20pack.jpg",
-    "rig_type": "Cannonball Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "clean sand",
-      "mixed ground"
-    ],
-    "sinker": "Breakaway or star sinker",
-    "sk": "Breakaway or star sinker",
-    "leader": "80lb mono",
-    "why": "Aerodynamic cannonball layout sends tough single-hook baits further in surf without full pulley complexity.",
-    "w": "Aerodynamic cannonball layout sends tough single-hook baits further in surf without full pulley complexity.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "60lb / 40lb Long Cast Beach Pulley Rig No.1 – Twin 1/0 Hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-60lb40lb-long-cast-beach-pulley-rig-no1-2x-10-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Front%20cover%20rig%201%20long%20cast-0001.png",
-    "rig_type": "Pulley Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "60lb / 40lb pulley trace",
-    "why": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "w": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "650lb Coated Wire Shark Rig – 20/0 Circle Hook – Heavy Duty Land-Based & Offshore Trace",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/650lb-stainless-steel-coated-wire-25m-shark-rig-bite-zone-200-circle-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/actual%20rig.png",
-    "rig_type": "Heavy Shark Bite-Zone Trace",
-    "usage": "deploy",
-    "environment": [
-      "beach",
-      "surf",
-      "boat",
-      "reef"
-    ],
-    "species": [
-      "large sharks",
-      "gummy shark"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "deploy",
-    "distance": "deploy",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "reef edge"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "110–650lb wire",
-    "why": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "w": "Wire bite trace protects against bite-offs from sharks and heavy predators.",
-    "cap": [
-      "large bait deployment",
-      "reef structure control",
-      "bite protection"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "large_shark_trace_650lb_20_0",
+  "name": "650lb Coated Wire Shark Rig – 20/0 Circle Hook – Heavy Duty Land-Based & Offshore Trace",
+  "family": "large_shark_trace",
+  "rig_type": "heavy_shark_trace",
+
+  "primary_species": [
+    "large_sharks"
+  ],
+
+  "secondary_species": [
+    "gummy_shark"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "boat",
+    "reef"
+  ],
+
+  "bait": [
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "deploy"
+  ],
+
+  "usage": "Heavy-duty shark bite trace for large bait deployment and offshore predator fishing.",
+
+  "bait_size": "large",
+
+  "hook_min": 20,
+  "hook_max": 20,
+  "hook_text": "20/0 Circle Hook",
+
+  "leader": "650lb coated wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Heavy breakaway sinker recommended for shark deployment.",
+
+  "guide_url": "/land-based-shark-fishing-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/650lb-stainless-steel-coated-wire-25m-shark-rig-bite-zone-200-circle-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/actual%20rig.png",
+
+  "why": "Heavy coated wire bite trace helps prevent bite-offs from large sharks and powerful predators.",
+
+  "priority": 150
+},
   {
     "name": "400lb Stainless Steel Coated Wire Shark Rig – 2.5m Trace – 14/0 Circle Hook & Bite Zone",
     "url": "https://wiggleyawormrigs.com/online-shop/ols/products/480lb-stainless-steel-wire-3m-shark-trace-with-bite-zone-20-slash-0-circle-hook",
