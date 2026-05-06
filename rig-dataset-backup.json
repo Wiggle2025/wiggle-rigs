@@ -2565,554 +2565,711 @@
   "priority": 160
 },
   {
-    "name": "Yellow 2nd Generation Popper & Ganged hook twisted paternoster, 4/0 hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/yellow-2nd-generation-popper-ganged-hook-twisted-paternoster-40-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/blob-df7c80b.png",
-    "rig_type": "Popper Ganged Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "40–60lb mono",
-    "why": "Popper adds flash and vibration ahead of the bait to trigger reaction strikes in active wash-zone feeding.",
-    "w": "Popper adds flash and vibration ahead of the bait to trigger reaction strikes in active wash-zone feeding.",
-    "cap": [
-      "visual strike trigger",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": true,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "surf_paternoster_popper_ganged_4_0",
+  "name": "Yellow 2nd Generation Popper & Ganged Hook Twisted Paternoster – 4/0 Hooks",
+  "family": "surf_paternoster",
+  "rig_type": "popper_ganged_paternoster",
+
+  "primary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "secondary_species": [
+    "mulloway",
+    "snapper"
+  ],
+
+  "environment": [
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Active surf paternoster rig designed for wash-zone predators and reaction strikes.",
+
+  "bait_size": "medium",
+
+  "hook_min": 4,
+  "hook_max": 4,
+  "hook_text": "4/0 Ganged Hooks",
+
+  "leader": "40–60lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star or grapnel sinker matched to tidal current strength and surf conditions.",
+
+  "guide_url": "/tailor-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/yellow-2nd-generation-popper-ganged-hook-twisted-paternoster-40-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/blob-df7c80b.png",
+
+  "why": "Popper and ganged-hook presentation adds flash, vibration and bait stability to trigger aggressive surf predators in active wash zones.",
+
+  "priority": 142
+},
   {
-    "name": "Red 2nd Generation Popper & Ganged hook twisted paternoster, 4/0 hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/red-2nd-generation-popper-and-ganged-hook-twisted-paternoster-4-slash-0-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/blob-3b2f858.png",
-    "rig_type": "Popper Ganged Paternoster",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "40–60lb mono",
-    "why": "Popper adds flash and vibration ahead of the bait to trigger reaction strikes in active wash-zone feeding.",
-    "w": "Popper adds flash and vibration ahead of the bait to trigger reaction strikes in active wash-zone feeding.",
-    "cap": [
-      "visual strike trigger",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": true,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "surf_paternoster_popper_ganged_red_4_0",
+  "name": "Red 2nd Generation Popper & Ganged Hook Twisted Paternoster – 4/0 Hooks",
+  "family": "surf_paternoster",
+  "rig_type": "popper_ganged_paternoster",
+
+  "primary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "secondary_species": [
+    "mulloway",
+    "snapper"
+  ],
+
+  "environment": [
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Active surf paternoster rig designed for wash-zone predators and reaction strikes.",
+
+  "bait_size": "medium",
+
+  "hook_min": 4,
+  "hook_max": 4,
+  "hook_text": "4/0 Ganged Hooks",
+
+  "leader": "40–60lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star or grapnel sinker matched to tidal current strength and surf conditions.",
+
+  "guide_url": "/tailor-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/red-2nd-generation-popper-and-ganged-hook-twisted-paternoster-4-slash-0-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/blob-3b2f858.png",
+
+  "why": "Popper and ganged-hook presentation adds flash, vibration and bait stability to trigger aggressive surf predators in active wash zones.",
+
+  "priority": 142
+},
   {
-    "name": "Weighted Pre-Rigged Slide Rig for BIG baits/fish, 110lb wire, 2x 8/0 octopus beak hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-pre-rigged-slide-rig-for-big-baitsfish-110lb-wire-2x-80-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/weighted%20general%20arrangement%20slide%20rig%20v2.png",
-    "rig_type": "Slide Bait Rig",
-    "usage": "deploy",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "mulloway",
-      "large sharks"
-    ],
-    "bait": [
-      "livebait",
-      "live bait",
-      "large bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "deploy",
-    "distance": "deploy",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker with sacrificial weak link",
-    "sk": "Breakaway sinker with sacrificial weak link",
-    "leader": "110–650lb wire system",
-    "why": "Slide system deploys large baits beyond casting range while the weak sinker link helps protect the rig if the weight snags.",
-    "w": "Slide system deploys large baits beyond casting range while the weak sinker link helps protect the rig if the weight snags.",
-    "cap": [
-      "long casting",
-      "large bait deployment",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "slide_bait_weighted_110lb_8_0",
+  "name": "Weighted Pre-Rigged Slide Rig for BIG Baits/Fish – 110lb Wire – 2x 8/0 Octopus Beak Hooks",
+  "family": "slide_bait",
+  "rig_type": "slide_bait_rig",
+
+  "primary_species": [
+    "mulloway"
+  ],
+
+  "secondary_species": [
+    "large_sharks"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "live_bait",
+    "large_bait",
+    "whole_fish"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "deploy"
+  ],
+
+  "usage": "Weighted slide bait rig designed for large live bait deployment and predator fishing.",
+
+  "bait_size": "large",
+
+  "hook_min": 8,
+  "hook_max": 8,
+  "hook_text": "2x 8/0 Octopus Beak Hooks",
+
+  "leader": "110lb wire system",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker with sacrificial weak link recommended for slide deployment.",
+
+  "guide_url": "/slide-bait-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-pre-rigged-slide-rig-for-big-baitsfish-110lb-wire-2x-80-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/weighted%20general%20arrangement%20slide%20rig%20v2.png",
+
+  "why": "Weighted slide system allows large baits to be deployed beyond casting range while maintaining bait control and reducing snag loss.",
+
+  "priority": 148
+},
+ {
+  "id": "slide_bait_120lb_6_0",
+  "name": "Weighted Pre-Rigged Stainless Steel Slide Bait Rig – 120lb Wire, Twin 6/0 Circle Hooks",
+  "family": "slide_bait",
+  "rig_type": "slide_bait_rig",
+
+  "primary_species": [
+    "mulloway"
+  ],
+
+  "secondary_species": [
+    "large_sharks"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "live_bait",
+    "large_bait",
+    "whole_fish"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "deploy"
+  ],
+
+  "usage": "Weighted slide bait rig designed for mulloway and large predator deployment fishing.",
+
+  "bait_size": "large",
+
+  "hook_min": 6,
+  "hook_max": 6,
+  "hook_text": "Twin 6/0 Circle Hooks",
+
+  "leader": "120lb stainless wire",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker with sacrificial weak link recommended for slide deployment.",
+
+  "guide_url": "/slide-bait-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/weighted-pre-rigged-stainless-steel-slide-rig-for-big-baitsfish-120lb-wire-2x-60-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/actual%20slide%20rig%20set%20up%20and%20components.png",
+
+  "why": "Weighted slide system allows large live baits to be deployed beyond casting range while maintaining bait control and reducing snag loss.",
+
+  "priority": 147
+},
   {
-    "name": "Weighted Pre-Rigged Stainless Steel Slide Bait Rig – 120lb Wire, Twin 6/0 Circle Hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/weighted-pre-rigged-stainless-steel-slide-rig-for-big-baitsfish-120lb-wire-2x-60-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/actual%20slide%20rig%20set%20up%20and%20components.png",
-    "rig_type": "Slide Bait Rig",
-    "usage": "deploy",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "mulloway",
-      "large sharks"
-    ],
-    "bait": [
-      "livebait",
-      "live bait",
-      "large bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "deploy",
-    "distance": "deploy",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker with sacrificial weak link",
-    "sk": "Breakaway sinker with sacrificial weak link",
-    "leader": "110–650lb wire system",
-    "why": "Slide system deploys large baits beyond casting range while the weak sinker link helps protect the rig if the weight snags.",
-    "w": "Slide system deploys large baits beyond casting range while the weak sinker link helps protect the rig if the weight snags.",
-    "cap": [
-      "long casting",
-      "large bait deployment",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "slide_bait_unweighted_110lb_6_0",
+  "name": "Unweighted Pre-Rigged Slide Bait Rig – 110lb Wire, Twin 6/0 Circle Hooks",
+  "family": "slide_bait",
+  "rig_type": "slide_bait_rig",
+
+  "primary_species": [
+    "mulloway"
+  ],
+
+  "secondary_species": [
+    "large_sharks"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "live_bait",
+    "large_bait",
+    "whole_fish"
+  ],
+
+  "current": [
+    "light",
+    "moderate"
+  ],
+
+  "distance": [
+    "deploy"
+  ],
+
+  "usage": "Unweighted slide bait rig designed for natural live bait presentation and predator deployment fishing.",
+
+  "bait_size": "large",
+
+  "hook_min": 6,
+  "hook_max": 6,
+  "hook_text": "Twin 6/0 Circle Hooks",
+
+  "leader": "110lb wire system",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker with sacrificial weak link recommended for slide deployment.",
+
+  "guide_url": "/slide-bait-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/unweighted-pre-rigged-slide-rig-for-big-baitsfish-110lb-wire-2x-60-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Unweighted%20general%20arrangement%20slide%20rig-0002.png",
+
+  "why": "Unweighted slide bait presentation allows large live baits to move more naturally while still enabling long-range deployment.",
+
+  "priority": 146
+},
+ {
+  "id": "slide_bait_unweighted_110lb_8_0",
+  "name": "Unweighted Pre-Rigged Slide Rig for BIG Baits/Fish – 110lb Wire – 2x 8/0 Octopus Circle Hooks",
+  "family": "slide_bait",
+  "rig_type": "slide_bait_rig",
+
+  "primary_species": [
+    "mulloway"
+  ],
+
+  "secondary_species": [
+    "large_sharks"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "live_bait",
+    "large_bait",
+    "whole_fish"
+  ],
+
+  "current": [
+    "light",
+    "moderate"
+  ],
+
+  "distance": [
+    "deploy"
+  ],
+
+  "usage": "Unweighted slide bait rig designed for natural large-bait presentation and predator deployment fishing.",
+
+  "bait_size": "large",
+
+  "hook_min": 8,
+  "hook_max": 8,
+  "hook_text": "2x 8/0 Octopus Circle Hooks",
+
+  "leader": "110lb wire system",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker with sacrificial weak link recommended for slide deployment.",
+
+  "guide_url": "/slide-bait-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/unweighted-pre-rigged-slide-rig-for-big-baitsfish-110lb-wire-2x-80-octopus-circle-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Unweighted%20general%20arrangement%20slide%20rig-0001.png",
+
+  "why": "Unweighted slide bait presentation allows larger live baits to move naturally while still enabling long-range deployment for predators.",
+
+  "priority": 147
+},
   {
-    "name": "Unweighted Pre-Rigged Slide Bait Rig – 110lb Wire, Twin 6/0 Circle Hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/unweighted-pre-rigged-slide-rig-for-big-baitsfish-110lb-wire-2x-60-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Unweighted%20general%20arrangement%20slide%20rig-0002.png",
-    "rig_type": "Slide Bait Rig",
-    "usage": "deploy",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "mulloway",
-      "large sharks"
-    ],
-    "bait": [
-      "livebait",
-      "live bait",
-      "large bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "deploy",
-    "distance": "deploy",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker with sacrificial weak link",
-    "sk": "Breakaway sinker with sacrificial weak link",
-    "leader": "110–650lb wire system",
-    "why": "Slide system deploys large baits beyond casting range while the weak sinker link helps protect the rig if the weight snags.",
-    "w": "Slide system deploys large baits beyond casting range while the weak sinker link helps protect the rig if the weight snags.",
-    "cap": [
-      "long casting",
-      "large bait deployment",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "reef_running_sinker_blood_trail_7_0",
+  "name": "Snapper Trapper “Blood Trail” Rig – 80lb Hula Skirt & Float – 7/0 Circle Hook – Hand Tied",
+  "family": "reef_running_sinker",
+  "rig_type": "reef_running_sinker",
+
+  "primary_species": [
+    "snapper"
+  ],
+
+  "secondary_species": [
+    "reef_species",
+    "trevally"
+  ],
+
+  "environment": [
+    "boat",
+    "reef",
+    "offshore"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "squid",
+    "whole_fish"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "short"
+  ],
+
+  "usage": "Running sinker reef rig designed for natural bait presentation around reef and offshore structure.",
+
+  "bait_size": "medium",
+
+  "hook_min": 7,
+  "hook_max": 7,
+  "hook_text": "7/0 Circle Hook",
+
+  "leader": "80lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Ball or running sinker matched to tidal current strength and reef depth.",
+
+  "guide_url": "/snapper-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/snapper-trapper-blood-trail-80lb-hula-skirt-float-rig-70-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/actual%20rig-0627516.png",
+
+  "why": "Hula skirt and float presentation adds movement, lift and visual attraction while the running sinker keeps bait movement natural around reef structure.",
+
+  "priority": 144
+},
+ {
+  "id": "bream_running_sinker_20lb_1_0_complete_pack",
+  "name": "4 x Complete, 20lb Brim (Bream) Running Sinker Rigs – Size 1/0 Hook & 15gm Sinker",
+  "family": "bream_running_sinker",
+  "rig_type": "running_sinker_rig",
+
+  "primary_species": [
+    "bream"
+  ],
+
+  "secondary_species": [
+    "whiting",
+    "flathead"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "estuary"
+  ],
+
+  "bait": [
+    "worm",
+    "prawn",
+    "pipi"
+  ],
+
+  "current": [
+    "light",
+    "moderate"
+  ],
+
+  "distance": [
+    "short"
+  ],
+
+  "usage": "Low-resistance running sinker rig designed for cautious estuary and surf species.",
+
+  "bait_size": "small",
+
+  "hook_min": 1,
+  "hook_max": 1,
+  "hook_text": "Size 1/0 Hook",
+
+  "leader": "20lb mono",
+
+  "sinker_included": true,
+  "sinker_recommendation": "",
+
+  "guide_url": "/bream-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4-x-complete-20lb-brim-bream-running-sinker-rigs-size10-hook-15gm-sinker",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack%20of%20brim.jpg",
+
+  "why": "Low-resistance running sinker presentation allows cautious fish to take baits naturally with minimal resistance.",
+
+  "priority": 150
+},
+ {
+  "id": "tailor_stinger_kingfish_pack",
+  "name": "4x Kingfish & Tailor Stinger Rigs – Sliding Stinger Hook, Treble Tail Hook – Ready to Fish",
+  "family": "tailor_stinger",
+  "rig_type": "stinger_rig",
+
+  "primary_species": [
+    "tailor"
+  ],
+
+  "secondary_species": [
+    "kingfish"
+  ],
+
+  "environment": [
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Predator stinger rig designed to improve hook-up rates on aggressive surf species.",
+
+  "bait_size": "medium",
+
+  "hook_min": 4,
+  "hook_max": 6,
+  "hook_text": "Sliding Stinger Hook & Treble Tail Hook",
+
+  "leader": "Match rig rating",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star or grapnel sinker matched to tidal current strength and surf conditions.",
+
+  "guide_url": "/tailor-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-kingfish--tailor-stinger-rigs-includes-sliding-weight-clip--lumo-knot-protecting-bead",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20PACK%20PHOTO.png",
+
+  "why": "Sliding stinger arrangement improves hook-up rates on aggressive predators that short-strike or attack trailing bait sections.",
+
+  "priority": 145
+},
+ {
+  "id": "mixed_species_all_species_beach_pack",
+  "name": "4x ALL SPECIES Complete Ready-to-Fish Beach Rigs – Tailor, Mulloway, Brim",
+  "family": "mixed_species",
+  "rig_type": "all_species_surf_rig",
+
+  "primary_species": [
+    "mixed_species"
+  ],
+
+  "secondary_species": [
+    "bream",
+    "tailor",
+    "mulloway",
+    "flathead",
+    "australian_salmon",
+    "snapper"
+  ],
+
+  "environment": [
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait",
+    "squid"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Versatile ready-to-fish surf rig designed for mixed beach fishing conditions and multiple target species.",
+
+  "bait_size": "medium",
+
+  "hook_min": 1,
+  "hook_max": 6,
+  "hook_text": "Pre-rigged surf hooks",
+
+  "leader": "Match rig rating",
+
+  "sinker_included": true,
+  "sinker_recommendation": "",
+
+  "guide_url": "/rig-setup-guides",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-all-species-complete-ready-to-fish-beach-fishing-rigs-tailor-mulloway-brim",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/allspec.jpg.png",
+
+  "why": "Balanced ready-to-fish surf rig designed to handle a wide range of common beach fishing species and conditions.",
+
+  "priority": 132
+},
   {
-    "name": "Unweighted Pre-Rigged Slide Rig for BIG baits/fish, 110lb wire, 2x 8/0 octopus circle hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/unweighted-pre-rigged-slide-rig-for-big-baitsfish-110lb-wire-2x-80-octopus-circle-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Unweighted%20general%20arrangement%20slide%20rig-0001.png",
-    "rig_type": "Slide Bait Rig",
-    "usage": "deploy",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "mulloway",
-      "large sharks"
-    ],
-    "bait": [
-      "livebait",
-      "live bait",
-      "large bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "deploy",
-    "distance": "deploy",
-    "bait_size": "large",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker with sacrificial weak link",
-    "sk": "Breakaway sinker with sacrificial weak link",
-    "leader": "110–650lb wire system",
-    "why": "Slide system deploys large baits beyond casting range while the weak sinker link helps protect the rig if the weight snags.",
-    "w": "Slide system deploys large baits beyond casting range while the weak sinker link helps protect the rig if the weight snags.",
-    "cap": [
-      "long casting",
-      "large bait deployment",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "Snapper Trapper “Blood Trail” Rig – 80lb Hula Skirt & Float – 7/0 Circle Hook – Hand Tied",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/snapper-trapper-blood-trail-80lb-hula-skirt-float-rig-70-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/actual%20rig-0627516.png",
-    "rig_type": "Running Sinker Reef Flasher",
-    "usage": "cast",
-    "environment": [
-      "boat",
-      "reef"
-    ],
-    "species": [
-      "snapper",
-      "reef species",
-      "trevally"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait",
-      "squid"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "short",
-    "distance": "short",
-    "bait_size": "medium",
-    "terrain": [
-      "reef edge"
-    ],
-    "sinker": "Ball sinker or running sinker; increase weight for reef current",
-    "sk": "Ball sinker or running sinker; increase weight for reef current",
-    "leader": "80lb mono",
-    "why": "Hula skirt and float add lift, colour and movement while the running sinker keeps bait presentation natural around reef and inshore structure.",
-    "w": "Hula skirt and float add lift, colour and movement while the running sinker keeps bait presentation natural around reef and inshore structure.",
-    "cap": [
-      "bait lift",
-      "visual strike trigger",
-      "reef structure control"
-    ],
-    "float_support": true,
-    "reaction_trigger": true,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 0.561
-  },
-  {
-    "name": "4 x Complete, 20lb Brim (Bream) Running Sinker Rigs, size1/0 hook & 15gm sinker",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4-x-complete-20lb-brim-bream-running-sinker-rigs-size10-hook-15gm-sinker",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20pack%20of%20brim.jpg",
-    "rig_type": "Running Sinker Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "estuary"
-    ],
-    "species": [
-      "bream",
-      "whiting",
-      "flathead"
-    ],
-    "bait": [
-      "worms",
-      "worm",
-      "prawns",
-      "prawn"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "short",
-    "distance": "short",
-    "bait_size": "small",
-    "terrain": [
-      "clean sand",
-      "mixed ground"
-    ],
-    "sinker": "Ball sinker",
-    "sk": "Ball sinker",
-    "leader": "20lb mono",
-    "why": "Low-resistance running sinker setup gives cautious feeders a natural bait presentation.",
-    "w": "Low-resistance running sinker setup gives cautious feeders a natural bait presentation.",
-    "cap": [],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "4x Kingfish & Tailor Stinger Rigs – Sliding Stinger Hook, Treble Tail Hook – Ready to Fish",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-kingfish--tailor-stinger-rigs-includes-sliding-weight-clip--lumo-knot-protecting-bead",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/4%20PACK%20PHOTO.png",
-    "rig_type": "Stinger Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "tailor",
-      "kingfish"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "Match rig rating",
-    "why": "General-purpose rig suited to mixed surf conditions.",
-    "w": "General-purpose rig suited to mixed surf conditions.",
-    "cap": [],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "4x ALL SPECIES Complete Ready-to-Fish Beach Rigs – Tailor, Mulloway, Brim",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-all-species-complete-ready-to-fish-beach-fishing-rigs-tailor-mulloway-brim",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/allspec.jpg.png",
-    "rig_type": "All-Species Surf Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "bream",
-      "tailor",
-      "mulloway",
-      "flathead",
-      "salmon",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait",
-      "squid"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground"
-    ],
-    "sinker": "Star sinker",
-    "sk": "Star sinker",
-    "leader": "Match rig rating",
-    "why": "Balanced medium-bait surf rig for mixed species when you want one versatile ready-to-fish setup.",
-    "w": "Balanced medium-bait surf rig for mixed species when you want one versatile ready-to-fish setup.",
-    "cap": [
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "2x Tailor & Surf Fishing Rigs – 2× 4/0 Ganged Hooks, Sliding Sinker – Hand Tied",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/2x-complete-ready-to-go-hand-tied-tailor-surf-rigs-2x-40-ganged-hooks-sinker",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/2%20pack%2040%20hooks.png",
-    "rig_type": "Tailor Ganged Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "tailor",
-      "mulloway"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "clean sand",
-      "mixed ground"
-    ],
-    "sinker": "Sliding ball or star sinker",
-    "sk": "Sliding ball or star sinker",
-    "leader": "40–60lb mono",
-    "why": "Ganged hooks keep pilchards straight and improve hook exposure for fast slashing surf predators.",
-    "w": "Ganged hooks keep pilchards straight and improve hook exposure for fast slashing surf predators.",
-    "cap": [],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "2x Complete Ready-to-Fish Tailor & Surf Rigs – 3× 3/0 Ganged Hooks, Sliding Ball Sinker",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/2x-complete-ready-to-go-hand-tied-tailor-and-surf-rigs-2x-4-slash-0-ganged-hooks-and-sinker",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/actual%202%20pack%2030.png",
-    "rig_type": "Tailor Ganged Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf"
-    ],
-    "species": [
-      "tailor",
-      "mulloway"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "clean sand",
-      "mixed ground"
-    ],
-    "sinker": "Sliding ball or star sinker",
-    "sk": "Sliding ball or star sinker",
-    "leader": "40–60lb mono",
-    "why": "Ganged hooks keep pilchards straight and improve hook exposure for fast slashing surf predators.",
-    "w": "Ganged hooks keep pilchards straight and improve hook exposure for fast slashing surf predators.",
-    "cap": [],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "tailor_complete_sinker_ganged_4_0_pack",
+  "name": "2x Tailor & Surf Fishing Rigs – 2× 4/0 Ganged Hooks, Sliding Sinker – Hand Tied",
+  "family": "tailor_complete_sinker",
+  "rig_type": "ganged_hook_surf_rig",
+
+  "primary_species": [
+    "tailor"
+  ],
+
+  "secondary_species": [
+    "mulloway",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Sliding sinker surf rig designed specifically for tailor and aggressive surf predators.",
+
+  "bait_size": "medium",
+
+  "hook_min": 4,
+  "hook_max": 4,
+  "hook_text": "2× 4/0 Ganged Hooks",
+
+  "leader": "40–60lb mono",
+
+  "sinker_included": true,
+  "sinker_recommendation": "",
+
+  "guide_url": "/tailor-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/2x-complete-ready-to-go-hand-tied-tailor-surf-rigs-2x-40-ganged-hooks-sinker",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/2%20pack%2040%20hooks.png",
+
+  "why": "Ganged-hook sliding sinker presentation keeps pilchards straight and improves hook exposure for fast-moving surf predators like tailor.",
+
+  "priority": 165
+},
+ {
+  "id": "tailor_complete_sinker_ganged_3_0_pack",
+  "name": "2x Complete Ready-to-Fish Tailor & Surf Rigs – 3× 3/0 Ganged Hooks, Sliding Ball Sinker",
+  "family": "tailor_complete_sinker",
+  "rig_type": "ganged_hook_surf_rig",
+
+  "primary_species": [
+    "tailor"
+  ],
+
+  "secondary_species": [
+    "mulloway",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Sliding sinker surf rig designed specifically for tailor and aggressive surf predators.",
+
+  "bait_size": "medium",
+
+  "hook_min": 3,
+  "hook_max": 3,
+  "hook_text": "3× 3/0 Ganged Hooks",
+
+  "leader": "40–60lb mono",
+
+  "sinker_included": true,
+  "sinker_recommendation": "",
+
+  "guide_url": "/tailor-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/2x-complete-ready-to-go-hand-tied-tailor-and-surf-rigs-2x-4-slash-0-ganged-hooks-and-sinker",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/actual%202%20pack%2030.png",
+
+  "why": "Triple-ganged sliding sinker presentation keeps pilchards straight and maximises hook exposure for fast-moving surf predators like tailor.",
+
+  "priority": 164
+},
   {
     "name": "Gummy Shark Wire / Mono Paternoster Rigs – 6/0 Circle Hook (3 Pack)",
     "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-gummy-shark-wire-mono-paternoster-rigs-3-way-orbital-swivel-60-circle-hook",
