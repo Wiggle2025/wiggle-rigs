@@ -45,256 +45,307 @@
 ]
 },
 "rigs": [
+```json
 {
-"name": "Wiggle ya Worm Hand Tied 80lb/60lb Heavy Duty Long Cast Pulley Rig No4, 8/0 hook",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-80lb60lb-heavy-duty-long-cast-pulley-rig-no4-80-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Front%20cover%20heavy%20duty%20long%20distance%20casting%20r.png",
-    "rig_type": "Pulley Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "60lb / 40lb pulley trace",
-    "why": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "w": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "60lb/40lb Long Distance Casting Beach Pulley Rig No42, 2x 1/0 CIRCLE hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb40lb-long-distance-casting-beach-pulley-rig-no42-2x-10-circle-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover%20vvv.jpg",
-    "rig_type": "Pulley Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "60lb / 40lb pulley trace",
-    "why": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "w": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "Wiggle ya Worm Hand Tied 60lb/40lb Long Cast Beach Pulley Rig No2, 5/0 hook",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-60lb40lb-long-cast-beach-pulley-rig-no2-50-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/rig%20diagram%20size%205%20hook.png",
-    "rig_type": "Pulley Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "60lb / 40lb pulley trace",
-    "why": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "w": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "Wiggle ya Worm 60lb/40lb Long Casting Beach Pulley Rig No 3, 3/0 & 2/0 hooks",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-60lb40lb-long-casting-beach-pulley-rig-no-3-30-20-hooks",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover%203%20and%202%20hook%20wiggle%20ya%20worm%20long%20d.png",
-    "rig_type": "Pulley Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "60lb / 40lb pulley trace",
-    "why": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "w": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "Long Distance Casting rig with a Red & Yellow Pompano Candy Float, 1/0 Hook",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-60lb-slash-40lb-long-cast-beach-pulley-rig-no2-5-slash-0-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/orange%20and%20yellow%20front%20cover.png",
-    "rig_type": "Pulley",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "rocks"
-    ],
-    "species": [
-      "tailor",
-      "salmon",
-      "mulloway",
-      "snapper"
-    ],
-    "bait": [
-      "pilchard",
-      "whole fish",
-      "strip",
-      "strip bait",
-      "slab bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "long",
-    "distance": "long",
-    "bait_size": "medium",
-    "terrain": [
-      "mixed ground",
-      "snaggy"
-    ],
-    "sinker": "Breakaway sinker",
-    "sk": "Breakaway sinker",
-    "leader": "60lb / 40lb pulley trace",
-    "why": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "w": "Keeps bait streamlined during long casts and lifts the sinker clear after a strike to reduce snag loss.",
-    "cap": [
-      "long casting",
-      "snag reduction"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "long_cast_pulley_80lb_8_0",
+  "name": "Wiggle ya Worm Hand Tied 80lb/60lb Heavy Duty Long Cast Pulley Rig No4, 8/0 Hook",
+  "family": "long_cast_pulley",
+  "rig_type": "pulley_rig",
+
+  "primary_species": [
+    "mulloway",
+    "snapper"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Long-distance surf casting rig for rough beaches and heavy wash.",
+
+  "bait_size": "medium",
+
+  "hook_min": 8,
+  "hook_max": 8,
+  "hook_text": "8/0 Circle Hook",
+
+  "leader": "80lb/60lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended for strong surf and sweep.",
+
+  "guide_url": "/long-cast-pulley-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-80lb60lb-heavy-duty-long-cast-pulley-rig-no4-80-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/Front%20cover%20heavy%20duty%20long%20distance%20casting%20r.png",
+
+  "why": "Keeps bait streamlined during long casts while lifting the sinker clear after hookup to help reduce snag losses.",
+
+  "priority": 145
+},
+{
+  "id": "long_cast_pulley_60lb_1_0_twin",
+  "name": "60lb/40lb Long Distance Casting Beach Pulley Rig No42, 2x 1/0 Circle Hooks",
+  "family": "long_cast_pulley",
+  "rig_type": "pulley_rig",
+
+  "primary_species": [
+    "mulloway"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "snapper",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Long-distance surf pulley rig designed for casting whole and strip baits into outer gutters.",
+
+  "bait_size": "medium",
+
+  "hook_min": 1,
+  "hook_max": 1,
+  "hook_text": "2x 1/0 Circle Hooks",
+
+  "leader": "60lb/40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended in sweep and rough surf.",
+
+  "guide_url": "/long-cast-pulley-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/60lb40lb-long-distance-casting-beach-pulley-rig-no42-2x-10-circle-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover%20vvv.jpg",
+
+  "why": "Pulley system improves casting distance while helping reduce snagging after hookup.",
+
+  "priority": 142
+},
+{
+  "id": "long_cast_pulley_60lb_5_0",
+  "name": "Wiggle ya Worm Hand Tied 60lb/40lb Long Cast Beach Pulley Rig No2, 5/0 Hook",
+  "family": "long_cast_pulley",
+  "rig_type": "pulley_rig",
+
+  "primary_species": [
+    "mulloway",
+    "snapper"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Heavy-duty surf pulley rig for larger beach predators and rough surf conditions.",
+
+  "bait_size": "medium",
+
+  "hook_min": 5,
+  "hook_max": 5,
+  "hook_text": "5/0 Circle Hook",
+
+  "leader": "60lb/40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended for strong surf and sweep.",
+
+  "guide_url": "/long-cast-pulley-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-60lb40lb-long-cast-beach-pulley-rig-no2-50-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/rig%20diagram%20size%205%20hook.png",
+
+  "why": "Keeps larger baits streamlined during long casts while reducing snag losses in rough surf.",
+
+  "priority": 144
+},
+{
+  "id": "long_cast_pulley_60lb_3_0_2_0",
+  "name": "Wiggle ya Worm 60lb/40lb Long Casting Beach Pulley Rig No3, 3/0 & 2/0 Hooks",
+  "family": "long_cast_pulley",
+  "rig_type": "pulley_rig",
+
+  "primary_species": [
+    "mulloway"
+  ],
+
+  "secondary_species": [
+    "tailor",
+    "snapper",
+    "australian_salmon"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Twin-hook surf pulley rig for long-distance presentation of larger natural baits.",
+
+  "bait_size": "medium",
+
+  "hook_min": 2,
+  "hook_max": 3,
+  "hook_text": "3/0 & 2/0 Hooks",
+
+  "leader": "60lb/40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended in active surf conditions.",
+
+  "guide_url": "/long-cast-pulley-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-60lb40lb-long-casting-beach-pulley-rig-no-3-30-20-hooks",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/front%20cover%203%20and%202%20hook%20wiggle%20ya%20worm%20long%20d.png",
+
+  "why": "Twin-hook pulley configuration helps present larger baits cleanly during long surf casts.",
+
+  "priority": 143
+},
+{
+  "id": "long_cast_pulley_pompano_1_0",
+  "name": "Long Distance Casting Rig with Red & Yellow Pompano Candy Float, 1/0 Hook",
+  "family": "long_cast_pulley",
+  "rig_type": "pulley_rig",
+
+  "primary_species": [
+    "tailor",
+    "australian_salmon"
+  ],
+
+  "secondary_species": [
+    "mulloway",
+    "snapper"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "rocks"
+  ],
+
+  "bait": [
+    "pilchard",
+    "whole_fish",
+    "strip_bait",
+    "slab_bait"
+  ],
+
+  "current": [
+    "moderate"
+  ],
+
+  "distance": [
+    "long"
+  ],
+
+  "usage": "Long-distance surf pulley rig with added visual attraction for aggressive surf predators.",
+
+  "bait_size": "medium",
+
+  "hook_min": 1,
+  "hook_max": 1,
+  "hook_text": "1/0 Hook",
+
+  "leader": "60lb/40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Breakaway sinker recommended for rough surf and sweep.",
+
+  "guide_url": "/long-cast-pulley-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-hand-tied-60lb-slash-40lb-long-cast-beach-pulley-rig-no2-5-slash-0-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/orange%20and%20yellow%20front%20cover.png",
+
+  "why": "Pompano float adds visual attraction while the pulley system maintains long casting performance in surf.",
+
+  "priority": 141
+},
   {
     "name": "Wiggle ya Worm 60lb/40lb Long Cast Paternoster Pulley Rig No5, 2x 2/0 hooks",
     "url": "https://wiggleyawormrigs.com/online-shop/ols/products/wiggle-ya-worm-60lb40lb-long-cast-paternoster-pulley-rig-no5-2x-20-hooks",
