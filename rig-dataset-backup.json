@@ -3702,192 +3702,183 @@
   "priority": 160
 },
   {
-    "name": "4x 40lb Mono Flathead Fish Finder Rigs,2 x 1/0 hooks,Sliding weight clip & beads",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-mono-flathead-fish-finder-rigs2-x-10-hookssliding-weight-clip-beads",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/flathead%20multi%20pack%20front%20cover.jpg",
-    "rig_type": "Fish Finder Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "estuary"
-    ],
-    "species": [
-      "flathead",
-      "bream",
-      "mulloway"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait",
-      "livebait",
-      "live bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "clean sand",
-      "mixed ground"
-    ],
-    "sinker": "Ball or bean sinker; star sinker in surf edge gutters",
-    "sk": "Ball or bean sinker; star sinker in surf edge gutters",
-    "leader": "40lb mono",
-    "why": "Sliding sinker allows bait to move naturally along gutters and channels for ambush predators.",
-    "w": "Sliding sinker allows bait to move naturally along gutters and channels for ambush predators.",
-    "cap": [],
-    "float_support": false,
-    "reaction_trigger": false,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "flathead_fish_finder_40lb_1_0_pack",
+  "name": "4x 40lb Mono Flathead Fish Finder Rigs, 2 x 1/0 Hooks, Sliding Weight Clip & Beads",
+  "family": "flathead_fish_finder",
+  "rig_type": "fish_finder_rig",
+
+  "primary_species": [
+    "flathead"
+  ],
+
+  "secondary_species": [
+    "bream",
+    "mulloway"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "estuary"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "live_bait",
+    "whole_fish"
+  ],
+
+  "current": [
+    "light",
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Fish finder rig designed for natural bait movement along gutters, channels and estuary edges.",
+
+  "bait_size": "medium",
+
+  "hook_min": 1,
+  "hook_max": 1,
+  "hook_text": "2 x 1/0 Hooks",
+
+  "leader": "40lb mono",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star sinker for general conditions or breakaway sinker in stronger tidal current and surf sweep.",
+
+  "guide_url": "/flathead-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/4x-40lb-mono-flathead-fish-finder-rigs2-x-10-hookssliding-weight-clip-beads",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/flathead%20multi%20pack%20front%20cover.jpg",
+
+  "why": "Fish finder presentation allows baits to move naturally through gutters and channels where flathead ambush prey.",
+
+  "priority": 172
+},
   {
-    "name": "3x 40lb Wire Fish Finder Peg Float Surf Rigs – Sliding Sinker, 5/0 Circle Hook",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-40lb-wire-fish-finder-peg-float-surf-rigs",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/3%20pack%20of%20wire%20peg%20floats.png",
-    "rig_type": "Peg Float Fish Finder Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "estuary"
-    ],
-    "species": [
-      "bream",
-      "flathead",
-      "mulloway"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait",
-      "livebait",
-      "live bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "clean sand",
-      "mixed ground"
-    ],
-    "sinker": "Ball or bean sinker; star sinker in surf edge gutters",
-    "sk": "Ball or bean sinker; star sinker in surf edge gutters",
-    "leader": "40lb mono",
-    "why": "Peg float adds lift and visibility while the fish finder layout keeps bait moving naturally.",
-    "w": "Peg float adds lift and visibility while the fish finder layout keeps bait moving naturally.",
-    "cap": [
-      "bait lift",
-      "visual strike trigger"
-    ],
-    "float_support": true,
-    "reaction_trigger": true,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
+  "id": "flathead_fish_finder_wire_peg_float_5_0_pack",
+  "name": "3x 40lb Wire Fish Finder Peg Float Surf Rigs – Sliding Sinker, 5/0 Circle Hook",
+  "family": "flathead_fish_finder",
+  "rig_type": "peg_float_fish_finder",
+
+  "primary_species": [
+    "flathead"
+  ],
+
+  "secondary_species": [
+    "mulloway",
+    "bream"
+  ],
+
+  "environment": [
+    "beach",
+    "surf",
+    "estuary"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "live_bait",
+    "whole_fish"
+  ],
+
+  "current": [
+    "moderate",
+    "strong"
+  ],
+
+  "distance": [
+    "medium"
+  ],
+
+  "usage": "Peg float fish finder rig designed for lifted bait presentation and natural movement through surf gutters and channels.",
+
+  "bait_size": "medium",
+
+  "hook_min": 5,
+  "hook_max": 5,
+  "hook_text": "5/0 Circle Hook",
+
+  "leader": "40lb mono with wire trace section",
+
+  "sinker_included": false,
+  "sinker_recommendation": "Star sinker for general conditions or breakaway sinker in stronger tidal current and surf sweep.",
+
+  "guide_url": "/flathead-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-40lb-wire-fish-finder-peg-float-surf-rigs",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/3%20pack%20of%20wire%20peg%20floats.png",
+
+  "why": "Peg float presentation lifts bait naturally through gutters and channels while the fish finder layout maintains natural bait movement.",
+
+  "priority": 158
+},
   {
-    "name": "40lb Mono Fish Finder Peg Float Surf Rigs – 4/0 Circle Hook (3 Pack)",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-40lb-mono-leader-fish-finder-peg-float-surf-rigs-3x-40l-wr-fsh1",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/3%20pack%20of%20mono%20peg%20float%20rigs.png",
-    "rig_type": "Peg Float Fish Finder Rig",
-    "usage": "cast",
-    "environment": [
-      "beach",
-      "surf",
-      "estuary"
-    ],
-    "species": [
-      "bream",
-      "flathead",
-      "mulloway"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait",
-      "livebait",
-      "live bait"
-    ],
-    "current": [
-      "moderate",
-      "medium"
-    ],
-    "cast": "medium",
-    "distance": "medium",
-    "bait_size": "medium",
-    "terrain": [
-      "clean sand",
-      "mixed ground"
-    ],
-    "sinker": "Ball or bean sinker; star sinker in surf edge gutters",
-    "sk": "Ball or bean sinker; star sinker in surf edge gutters",
-    "leader": "40lb mono",
-    "why": "Peg float adds lift and visibility while the fish finder layout keeps bait moving naturally.",
-    "w": "Peg float adds lift and visibility while the fish finder layout keeps bait moving naturally.",
-    "cap": [
-      "bait lift",
-      "visual strike trigger"
-    ],
-    "float_support": true,
-    "reaction_trigger": true,
-    "structure": false,
-    "match_strength_base": "",
-    "source_match_score": 1.0
-  },
-  {
-    "name": "3 × Offshore Deep-Drop Snapper Rigs – 100lb Mono – Size 10 Sliding Sinker – 8/0 Circle Hook",
-    "url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-offshore-deep-drop-snapper-rigs-100lb-mono-size-10-sliding-ball-sinker-80-hook",
-    "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/modified%20blue%20rig.png",
-    "rig_type": "Deep Drop Reef",
-    "usage": "cast",
-    "environment": [
-      "offshore",
-      "reef"
-    ],
-    "species": [
-      "snapper",
-      "reef species"
-    ],
-    "bait": [
-      "strip",
-      "strip bait",
-      "slab bait",
-      "squid"
-    ],
-    "current": [
-      "strong",
-      "heavy"
-    ],
-    "cast": "drop",
-    "distance": "drop",
-    "bait_size": "large",
-    "terrain": [
-      "reef edge"
-    ],
-    "sinker": "Built-in size 10 ball sinker; suit deep water and current",
-    "sk": "Built-in size 10 ball sinker; suit deep water and current",
-    "leader": "100lb mono",
-    "why": "Heavy pre-weighted sliding setup gets baits down fast in deeper water while maintaining a natural presentation for bottom-feeding reef species.",
-    "w": "Heavy pre-weighted sliding setup gets baits down fast in deeper water while maintaining a natural presentation for bottom-feeding reef species.",
-    "cap": [
-      "reef structure control"
-    ],
-    "float_support": false,
-    "reaction_trigger": false,
-        "structure": true,
-    "match_strength_base": "",
-    "source_match_score": 0.627
+  "id": "offshore_deep_drop_snapper_8_0_pack",
+  "name": "3 × Offshore Deep-Drop Snapper Rigs – 100lb Mono – Size 10 Sliding Sinker – 8/0 Circle Hook",
+  "family": "offshore_deep_drop",
+  "rig_type": "deep_drop_reef_rig",
+
+  "primary_species": [
+    "snapper"
+  ],
+
+  "secondary_species": [
+    "reef_species"
+  ],
+
+  "environment": [
+    "offshore",
+    "reef",
+    "boat"
+  ],
+
+  "bait": [
+    "strip_bait",
+    "slab_bait",
+    "squid",
+    "whole_fish"
+  ],
+
+  "current": [
+    "strong"
+  ],
+
+  "distance": [
+    "short"
+  ],
+
+  "usage": "Heavy offshore deep-drop rig designed for deep water reef and bottom fishing applications.",
+
+  "bait_size": "large",
+
+  "hook_min": 8,
+  "hook_max": 8,
+  "hook_text": "8/0 Circle Hook",
+
+  "leader": "100lb mono",
+
+  "sinker_included": true,
+  "sinker_recommendation": "",
+
+  "guide_url": "/snapper-rig-guide",
+
+  "product_url": "https://wiggleyawormrigs.com/online-shop/ols/products/3x-offshore-deep-drop-snapper-rigs-100lb-mono-size-10-sliding-ball-sinker-80-hook",
+
+  "image": "https://img1.wsimg.com/isteam/ip/f0594046-f866-4d01-948b-8f80732059fb/ols/modified%20blue%20rig.png",
+
+  "why": "Heavy pre-weighted deep-drop presentation gets baits down quickly while maintaining natural movement for deep-water reef species.",
+
+  "priority": 161
   }
-]
+  ]
 }
