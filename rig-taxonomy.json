@@ -1,1 +1,58 @@
+{
+  "distance": {
+    "short": "Short Casts (close range, estuary, jetty)",
+    "medium": "Medium Casts (general purpose fishing)",
+    "long": "Long Distance Casting (surf/beach distance)",
+    "deploy": "Drone/Kayak/Slide Deployment"
+  },
 
+  "current": {
+    "light": "Light Tidal Current",
+    "moderate": "Moderate Tidal Current",
+    "strong": "Strong Tidal Current"
+  },
+
+  "environment": {
+    "estuary": "Estuary/River",
+    "jetty": "Jetty/Pier",
+    "beach": "Beach (calmer beach conditions)",
+    "surf": "Surf Beach (waves, sweep, active wash)",
+    "rocks": "Rocks/Rock Platforms",
+    "reef": "Reef Fishing",
+    "offshore": "Offshore/Deep Water",
+    "boat": "Boat Fishing"
+  },
+
+  "bait": {
+    "worm": "Beach Worms",
+    "pipi": "Pipis/Shellfish",
+    "prawn": "Prawns",
+    "pilchard": "Pilchards",
+    "squid": "Squid",
+    "strip_bait": "Fish Strip Baits",
+    "slab_bait": "Large Slab Baits",
+    "whole_fish": "Whole Fish Baits",
+    "live_bait": "Live Baits",
+    "large_bait": "Large Shark Baits"
+  },
+
+  "families": {
+    "whiting_paternoster": {},
+    "bream_running_sinker": {},
+    "flathead_fish_finder": {},
+    "tailor_complete_sinker": {},
+    "tailor_stinger": {},
+    "sliding_snell": {},
+    "surf_paternoster": {},
+    "long_cast_pulley": {},
+    "cannonball_long_cast": {},
+    "castable_shark": {},
+    "gummy_shark_paternoster": {},
+    "large_shark_trace": {},
+    "slide_bait": {},
+    "apex_shark_system": {},
+    "reef_paternoster": {},
+    "offshore_deep_drop": {},
+    "mixed_species": {}
+  }
+}
