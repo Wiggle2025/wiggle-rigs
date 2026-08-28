@@ -1,0 +1,33 @@
+name: Update Ask Wiggle search index
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 18 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out search files
+        uses: actions/checkout@v4
+
+      - name: Build the current site index
+        run: python3 build-ask-wiggle-index.py --delay 1.25
+
+      - name: Save index changes
+        run: |
+          if git diff --quiet -- ask-wiggle-index.json; then
+            echo "Ask Wiggle is already current."
+            exit 0
+          fi
+          git config user.name "Ask Wiggle Index Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add ask-wiggle-index.json
+          git commit -m "Update Ask Wiggle search index"
+          git push
